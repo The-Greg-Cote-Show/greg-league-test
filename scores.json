@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "league": "League of Gregs",
+    "season": "Test Season",
+    "rubric_version": 1,
+    "last_updated": "2026-06-17",
+    "scoring_window": "daily",
+    "status": "active"
+  },
+  "rubric": {
+    "major_award": { "points": 15, "label": "Won a major award" },
+    "major_project": { "points": 12, "label": "Released a major project" },
+    "life_event": { "points": 10, "label": "Major life event" },
+    "career_milestone": { "points": 8, "label": "Major career milestone" },
+    "major_appearance": { "points": 6, "label": "Significant public appearance" },
+    "notable_statement": { "points": 3, "label": "Notable interview or statement" },
+    "incidental_mention": { "points": 1, "label": "Incidental mention" },
+    "fired_cut": { "points": -3, "label": "Fired, dropped, or cut" },
+    "arrested": { "points": -15, "label": "Arrested or criminally charged" },
+    "misconduct": { "points": -20, "label": "Confirmed misconduct" },
+    "meltdown": { "points": -8, "label": "Public meltdown or embarrassment" },
+    "quiet_tax": { "points": -3, "label": "No scoreable events found" }
+  },
+  "owners": {
+    "Yeti": {
+      "color": "#4FC3F7",
+      "members": [
+        "Greg Olsen",
+        "Greg Norman",
+        "Greg Berlanti",
+        "Taylor Swift",
+        "Dwayne Johnson"
+      ]
+    },
+    "Greg": {
+      "color": "#F5C518",
+      "members": [
+        "Greg Maddux",
+        "Greg Kinnear",
+        "Greg Daniels",
+        "LeBron James",
+        "Oprah Winfrey"
+      ]
+    },
+    "Chris": {
+      "color": "#E63946",
+      "members": [
+        "Greg Abbott",
+        "Greg Mathis",
+        "Greg Paul",
+        "Bad Bunny",
+        "Tom Hanks"
+      ]
+    }
+  },
+  "people": {
+    "Greg Olsen": { "category": "Broadcasting", "is_greg": true },
+    "Greg Norman": { "category": "Sports/Golf", "is_greg": true },
+    "Greg Berlanti": { "category": "Entertainment", "is_greg": true },
+    "Taylor Swift": { "category": "Music", "is_greg": false },
+    "Dwayne Johnson": { "category": "Entertainment", "is_greg": false },
+    "Greg Maddux": { "category": "Sports/Baseball", "is_greg": true },
+    "Greg Kinnear": { "category": "Acting", "is_greg": true },
+    "Greg Daniels": { "category": "TV/Producer", "is_greg": true },
+    "LeBron James": { "category": "Sports/Basketball", "is_greg": false },
+    "Oprah Winfrey": { "category": "Media", "is_greg": false },
+    "Greg Abbott": { "category": "Politics", "is_greg": true },
+    "Greg Mathis": { "category": "Broadcasting", "is_greg": true },
+    "Greg Paul": { "category": "Social Media", "is_greg": true },
+    "Bad Bunny": { "category": "Music", "is_greg": false },
+    "Tom Hanks": { "category": "Acting", "is_greg": false }
+  },
+  "scores": {
+    "Greg Olsen": {},
+    "Greg Norman": {},
+    "Greg Berlanti": {},
+    "Taylor Swift": {},
+    "Dwayne Johnson": {},
+    "Greg Maddux": {},
+    "Greg Kinnear": {},
+    "Greg Daniels": {},
+    "LeBron James": {},
+    "Oprah Winfrey": {},
+    "Greg Abbott": {},
+    "Greg Mathis": {},
+    "Greg Paul": {},
+    "Bad Bunny": {},
+    "Tom Hanks": {}
+  },
+  "flags": [],
+  "commissioner_rulings": []
+}
