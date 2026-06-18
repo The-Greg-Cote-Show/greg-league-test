@@ -3,23 +3,59 @@
     "league": "League of Gregs",
     "season": "Test Season",
     "rubric_version": 1,
-    "last_updated": "2026-06-17",
+    "last_updated": "2026-06-18",
     "scoring_window": "daily",
     "status": "active"
   },
   "rubric": {
-    "major_award": { "points": 15, "label": "Won a major award" },
-    "major_project": { "points": 12, "label": "Released a major project" },
-    "life_event": { "points": 10, "label": "Major life event" },
-    "career_milestone": { "points": 8, "label": "Major career milestone" },
-    "major_appearance": { "points": 6, "label": "Significant public appearance" },
-    "notable_statement": { "points": 3, "label": "Notable interview or statement" },
-    "incidental_mention": { "points": 1, "label": "Incidental mention" },
-    "fired_cut": { "points": -3, "label": "Fired, dropped, or cut" },
-    "arrested": { "points": -15, "label": "Arrested or criminally charged" },
-    "misconduct": { "points": -20, "label": "Confirmed misconduct" },
-    "meltdown": { "points": -8, "label": "Public meltdown or embarrassment" },
-    "quiet_tax": { "points": -3, "label": "No scoreable events found" }
+    "major_award": {
+      "points": 15,
+      "label": "Won a major award"
+    },
+    "major_project": {
+      "points": 12,
+      "label": "Released a major project"
+    },
+    "life_event": {
+      "points": 10,
+      "label": "Major life event"
+    },
+    "career_milestone": {
+      "points": 8,
+      "label": "Major career milestone"
+    },
+    "major_appearance": {
+      "points": 6,
+      "label": "Significant public appearance"
+    },
+    "notable_statement": {
+      "points": 3,
+      "label": "Notable interview or statement"
+    },
+    "incidental_mention": {
+      "points": 1,
+      "label": "Incidental mention"
+    },
+    "fired_cut": {
+      "points": -3,
+      "label": "Fired, dropped, or cut"
+    },
+    "arrested": {
+      "points": -15,
+      "label": "Arrested or criminally charged"
+    },
+    "misconduct": {
+      "points": -20,
+      "label": "Confirmed misconduct"
+    },
+    "meltdown": {
+      "points": -8,
+      "label": "Public meltdown or embarrassment"
+    },
+    "quiet_tax": {
+      "points": -3,
+      "label": "No scoreable events found"
+    }
   },
   "owners": {
     "Yeti": {
@@ -54,39 +90,370 @@
     }
   },
   "people": {
-    "Greg Olsen": { "category": "Broadcasting", "is_greg": true },
-    "Greg Norman": { "category": "Sports/Golf", "is_greg": true },
-    "Greg Berlanti": { "category": "Entertainment", "is_greg": true },
-    "Taylor Swift": { "category": "Music", "is_greg": false },
-    "Dwayne Johnson": { "category": "Entertainment", "is_greg": false },
-    "Greg Maddux": { "category": "Sports/Baseball", "is_greg": true },
-    "Greg Kinnear": { "category": "Acting", "is_greg": true },
-    "Greg Daniels": { "category": "TV/Producer", "is_greg": true },
-    "LeBron James": { "category": "Sports/Basketball", "is_greg": false },
-    "Oprah Winfrey": { "category": "Media", "is_greg": false },
-    "Greg Abbott": { "category": "Politics", "is_greg": true },
-    "Greg Mathis": { "category": "Broadcasting", "is_greg": true },
-    "Greg Paul": { "category": "Social Media", "is_greg": true },
-    "Bad Bunny": { "category": "Music", "is_greg": false },
-    "Tom Hanks": { "category": "Acting", "is_greg": false }
+    "Greg Olsen": {
+      "category": "Broadcasting",
+      "is_greg": true
+    },
+    "Greg Norman": {
+      "category": "Sports/Golf",
+      "is_greg": true
+    },
+    "Greg Berlanti": {
+      "category": "Entertainment",
+      "is_greg": true
+    },
+    "Taylor Swift": {
+      "category": "Music",
+      "is_greg": false
+    },
+    "Dwayne Johnson": {
+      "category": "Entertainment",
+      "is_greg": false
+    },
+    "Greg Maddux": {
+      "category": "Sports/Baseball",
+      "is_greg": true
+    },
+    "Greg Kinnear": {
+      "category": "Acting",
+      "is_greg": true
+    },
+    "Greg Daniels": {
+      "category": "TV/Producer",
+      "is_greg": true
+    },
+    "LeBron James": {
+      "category": "Sports/Basketball",
+      "is_greg": false
+    },
+    "Oprah Winfrey": {
+      "category": "Media",
+      "is_greg": false
+    },
+    "Greg Abbott": {
+      "category": "Politics",
+      "is_greg": true
+    },
+    "Greg Mathis": {
+      "category": "Broadcasting",
+      "is_greg": true
+    },
+    "Greg Paul": {
+      "category": "Social Media",
+      "is_greg": true
+    },
+    "Bad Bunny": {
+      "category": "Music",
+      "is_greg": false
+    },
+    "Tom Hanks": {
+      "category": "Acting",
+      "is_greg": false
+    }
   },
   "scores": {
-    "Greg Olsen": {},
-    "Greg Norman": {},
-    "Greg Berlanti": {},
-    "Taylor Swift": {},
-    "Dwayne Johnson": {},
-    "Greg Maddux": {},
-    "Greg Kinnear": {},
-    "Greg Daniels": {},
-    "LeBron James": {},
-    "Oprah Winfrey": {},
-    "Greg Abbott": {},
-    "Greg Mathis": {},
-    "Greg Paul": {},
-    "Bad Bunny": {},
-    "Tom Hanks": {}
+    "Greg Olsen": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Norman": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Berlanti": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Taylor Swift": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Dwayne Johnson": {
+      "2026-06-18": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson Reacts To Viral Joke About Selling Shampoo While Being Bald - AOL.com",
+            "source": "AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlpuY0JobE9SRUhqRi1IMGpsWlpwRGkzTVRUMlIyT2xvclg0cEpsQXFac1ljeEw3RG5ROEZJWHN6dFozVXFFY3RPZGEzcVBfUURTSEVsVWRha3FaSTFtXzZ2enZlTEtwSEFJU1RJWFFyNm1uV2tpNmJiSEFVMHlHUHhYX0Iwdk1Q?oc=5",
+            "article_count": 1,
+            "keyword": "reacts to",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Maddux": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Kinnear": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Daniels": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "LeBron James": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Oprah Winfrey": {
+      "2026-06-18": {
+        "total": 8,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Oprah Winfrey Tops Forbes Self Made American List - sekbernews.id",
+            "source": "sekbernews.id",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83eHc1a1VsNmxWQXV4RDlaeVg3YVE1RDhOWlN3cWVBTmp6N0NIamRTYXdBN0dHWmFPVXlJQTVwU0VBYWJHRHJUenhibGZJakNucFRjamxLM09CeHpxNTZVaEdSYlF5MEd2U0p3?oc=5",
+            "article_count": 1,
+            "keyword": "tops forbes",
+            "flagged": false
+          },
+          {
+            "type": "major_award",
+            "points": 0,
+            "note": "Oprah Winfrey to Receive Cannes Lions LionHeart Award 2026 - ZoomBangla News",
+            "source": "ZoomBangla News",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGZNckp4NGVuZmtZdXRtVm1mR3VpRE5zZ0FwUDlyOWRqU0d1TzNWdzV4WGlOQTRwRmdkc05OOUZEOTZ2ZE14b3o4c19IUnFTRVJQWW5XbW4zcnJDY3NBZWpWODY0TURFa0NhWlNCdjZRT0RvTzRuTnpTSXAxT0pkWEdvczVUSFMyakJDSnE4bFI3UQ?oc=5",
+            "article_count": 1,
+            "keyword": "to receive cannes",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Abbott": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Mathis": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Greg Paul": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "No scoreable events found",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Bad Bunny": {
+      "2026-06-18": {
+        "total": 14,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Bad Bunny Is the First-Ever Latin Artist to Gross $1 Billion in Touring - Billboard",
+            "source": "Billboard",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1VfUENEQW95TThsRlFoVmp4UU9nRzNaYmE4bXRHdTQxZkl4bS1QaXRjTkkzVkNNRFdRaDBFMGVCRHhaVEZLSEVLOTV4RDlud0JBWlhMQ2liZVR5YkM3emwzdDVqZWVyTDZzeC0ySndTNzNUWmNuQzR2Tl9OY21JWQ?oc=5",
+            "article_count": 1,
+            "keyword": "billion in touring",
+            "flagged": false
+          },
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "GOP Lawmakers Call for Investigation into Bad BunnyΓÇÖs Super Bowl Halftime Show Over ΓÇÿDecencyΓÇÖ - TicketNews",
+            "source": "TicketNews",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjRaSmJLdHpzR2ZGbWVwYUxFMTR2S0tBZGR0ZVZINE5CUEJFNUV5NUlWYVdjU1hleVFjOW5fSGJBaGFEcG9LWnUtZ0lHYndfblBfVTFMZzBrQXdlbU4tYlBaNUh2Z2k1X2VONWFvLXdONXF3U1E2ZjNtUG5ZNTRUbGUteWlDQzg3OWpONklCLUIwN2dJZkR2RVJreERkUU4xYnh0bm5mTHM1VWd2anpPT0E0aFU5UUUxb0dnUllVR0NZZ2Y3?oc=5",
+            "article_count": 1,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      }
+    },
+    "Tom Hanks": {
+      "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      }
+    }
   },
-  "flags": [],
+  "flags": [
+    {
+      "date": "2026-06-18",
+      "person": "Oprah Winfrey",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Oprah Winfrey Tops Forbes Self Made American List - sekbernews.id",
+        "source": "sekbernews.id",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83eHc1a1VsNmxWQXV4RDlaeVg3YVE1RDhOWlN3cWVBTmp6N0NIamRTYXdBN0dHWmFPVXlJQTVwU0VBYWJHRHJUenhibGZJakNucFRjamxLM09CeHpxNTZVaEdSYlF5MEd2U0p3?oc=5",
+        "article_count": 1,
+        "keyword": "tops forbes",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-06-18",
+      "person": "Oprah Winfrey",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Oprah Winfrey to Receive Cannes Lions LionHeart Award 2026 - ZoomBangla News",
+        "source": "ZoomBangla News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGZNckp4NGVuZmtZdXRtVm1mR3VpRE5zZ0FwUDlyOWRqU0d1TzNWdzV4WGlOQTRwRmdkc05OOUZEOTZ2ZE14b3o4c19IUnFTRVJQWW5XbW4zcnJDY3NBZWpWODY0TURFa0NhWlNCdjZRT0RvTzRuTnpTSXAxT0pkWEdvczVUSFMyakJDSnE4bFI3UQ?oc=5",
+        "article_count": 1,
+        "keyword": "to receive cannes",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-06-18",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Bad Bunny Is the First-Ever Latin Artist to Gross $1 Billion in Touring - Billboard",
+        "source": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1VfUENEQW95TThsRlFoVmp4UU9nRzNaYmE4bXRHdTQxZkl4bS1QaXRjTkkzVkNNRFdRaDBFMGVCRHhaVEZLSEVLOTV4RDlud0JBWlhMQ2liZVR5YkM3emwzdDVqZWVyTDZzeC0ySndTNzNUWmNuQzR2Tl9OY21JWQ?oc=5",
+        "article_count": 1,
+        "keyword": "billion in touring",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    }
+  ],
   "commissioner_rulings": []
 }
