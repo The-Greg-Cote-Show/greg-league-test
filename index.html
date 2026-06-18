@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>League of Gregs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ── TOKENS ── */
+  :root {
+    --navy:    #0D1B2A;
+    --navy2:   #112236;
+    --navy3:   #1A3350;
+    --gold:    #F5C518;
+    --gold2:   #D4A800;
+    --white:   #F0EDE8;
+    --slate:   #8899AA;
+    --red:     #E63946;
+    --green:   #2EC4B6;
+    --yeti:    #4FC3F7;
+    --greg:    #F5C518;
+    --chris:   #E63946;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--navy);
+    color: var(--white);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    min-height: 100vh;
+  }
+
+  /* ── AUTH GATE ── */
+  #auth-screen {
+    position: fixed; inset: 0;
+    background: var(--navy);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+
+  #auth-screen.hidden { display: none; }
+
+  .auth-logo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 64px;
+    letter-spacing: 4px;
+    color: var(--gold);
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+
+  .auth-sub {
+    font-size: 12px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 48px;
+  }
+
+  .auth-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    width: 280px;
+  }
+
+  .auth-input {
+    width: 100%;
+    background: var(--navy2);
+    border: 1px solid var(--navy3);
+    border-radius: 4px;
+    color: var(--white);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    letter-spacing: 8px;
+    padding: 14px 16px;
+    text-align: center;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .auth-input:focus { border-color: var(--gold); }
+  .auth-input::placeholder { letter-spacing: 2px; color: var(--navy3); }
+
+  .auth-btn {
+    width: 100%;
+    background: var(--gold);
+    border: none;
+    border-radius: 4px;
+    color: var(--navy);
+    cursor: pointer;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 12px;
+    transition: background 0.2s;
+  }
+
+  .auth-btn:hover { background: var(--gold2); }
+
+  .auth-error {
+    color: var(--red);
+    font-size: 12px;
+    letter-spacing: 1px;
+    height: 16px;
+  }
+
+  /* ── MAIN APP ── */
+  #app { display: none; }
+  #app.visible { display: block; }
+
+  /* ── TICKER ── */
+  .ticker-bar {
+    background: var(--gold);
+    color: var(--navy);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    overflow: hidden;
+    padding: 6px 0;
+    white-space: nowrap;
+  }
+
+  .ticker-inner {
+    display: inline-block;
+    animation: ticker 40s linear infinite;
+  }
+
+  .ticker-inner span {
+    padding: 0 32px;
+  }
+
+  .ticker-inner span::before {
+    content: "◆";
+    margin-right: 12px;
+    opacity: 0.5;
+  }
+
+  @keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ── HEADER ── */
+  .header {
+    padding: 24px 32px 20px;
+    border-bottom: 1px solid var(--navy3);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+
+  .header-left {}
+
+  .header-eyebrow {
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 4px;
+  }
+
+  .header-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 48px;
+    letter-spacing: 3px;
+    color: var(--gold);
+    line-height: 1;
+  }
+
+  .header-right {
+    text-align: right;
+  }
+
+  .header-updated {
+    font-size: 11px;
+    color: var(--slate);
+    letter-spacing: 1px;
+  }
+
+  .header-season {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--white);
+    margin-top: 2px;
+  }
+
+  /* ── NAV ── */
+  .nav {
+    display: flex;
+    gap: 2px;
+    padding: 0 32px;
+    border-bottom: 1px solid var(--navy3);
+    background: var(--navy2);
+  }
+
+  .nav-btn {
+    background: none;
+    border: none;
+    color: var(--slate);
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding: 12px 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .nav-btn:hover { color: var(--white); }
+  .nav-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+  /* ── VIEWS ── */
+  .view { display: none; padding: 32px; }
+  .view.active { display: block; }
+
+  /* ── OWNER STANDINGS ── */
+  .standings-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 32px;
+  }
+
+  .owner-card {
+    background: var(--navy2);
+    border-radius: 8px;
+    border: 1px solid var(--navy3);
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .owner-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+  }
+
+  .owner-card.yeti::before { background: var(--yeti); }
+  .owner-card.greg::before { background: var(--greg); }
+  .owner-card.chris::before { background: var(--chris); }
+
+  .owner-rank {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 64px;
+    line-height: 1;
+    opacity: 0.08;
+    position: absolute;
+    top: 8px; right: 16px;
+    color: var(--white);
+  }
+
+  .owner-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin-bottom: 4px;
+  }
+
+  .owner-card.yeti .owner-name { color: var(--yeti); }
+  .owner-card.greg .owner-name { color: var(--greg); }
+  .owner-card.chris .owner-name { color: var(--chris); }
+
+  .owner-score {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 52px;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: var(--white);
+    margin-bottom: 12px;
+  }
+
+  .owner-members {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .owner-member {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    padding: 3px 0;
+    border-bottom: 1px solid var(--navy3);
+  }
+
+  .owner-member:last-child { border-bottom: none; }
+
+  .member-name {
+    color: var(--white);
+    font-weight: 500;
+  }
+
+  .member-name.is-greg::after {
+    content: " G";
+    font-size: 9px;
+    color: var(--gold);
+    font-weight: 700;
+  }
+
+  .member-score {
+    font-weight: 700;
+    font-size: 13px;
+  }
+
+  .member-score.pos { color: var(--green); }
+  .member-score.neg { color: var(--red); }
+  .member-score.zero { color: var(--slate); }
+
+  /* ── INDIVIDUAL LEADERBOARD ── */
+  .section-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 3px;
+    color: var(--slate);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--navy3);
+  }
+
+  .leaderboard {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .leaderboard th {
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--slate);
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid var(--navy3);
+  }
+
+  .leaderboard th.right { text-align: right; }
+
+  .leaderboard td {
+    padding: 10px 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    vertical-align: middle;
+  }
+
+  .leaderboard tr:hover td { background: var(--navy2); }
+
+  .lb-rank {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    color: var(--slate);
+    width: 40px;
+  }
+
+  .lb-name {
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  .lb-owner-dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+    flex-shrink: 0;
+  }
+
+  .lb-category {
+    font-size: 11px;
+    color: var(--slate);
+    letter-spacing: 1px;
+  }
+
+  .lb-score {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    text-align: right;
+  }
+
+  .lb-score.pos { color: var(--green); }
+  .lb-score.neg { color: var(--red); }
+  .lb-score.zero { color: var(--slate); }
+
+  .greg-badge {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--navy);
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+
+  /* ── EVENT LOG ── */
+  .event-log {
+    margin-top: 32px;
+  }
+
+  .event-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .event-item {
+    background: var(--navy2);
+    border-radius: 4px;
+    border-left: 3px solid var(--navy3);
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 10px 14px;
+  }
+
+  .event-item.pos { border-left-color: var(--green); }
+  .event-item.neg { border-left-color: var(--red); }
+  .event-item.flag { border-left-color: var(--gold); }
+
+  .event-pts {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    min-width: 48px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .event-pts.pos { color: var(--green); }
+  .event-pts.neg { color: var(--red); }
+
+  .event-body { flex: 1; }
+
+  .event-who {
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 2px;
+  }
+
+  .event-note {
+    font-size: 12px;
+    color: var(--slate);
+    line-height: 1.4;
+  }
+
+  .event-meta {
+    font-size: 10px;
+    color: var(--navy3);
+    margin-top: 3px;
+    letter-spacing: 1px;
+  }
+
+  .flag-badge {
+    background: var(--gold);
+    color: var(--navy);
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  /* ── ROSTER VIEW ── */
+  .roster-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .roster-owner {
+    background: var(--navy2);
+    border-radius: 8px;
+    border: 1px solid var(--navy3);
+    overflow: hidden;
+  }
+
+  .roster-owner-header {
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--navy3);
+  }
+
+  .roster-owner-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+  }
+
+  .roster-member {
+    padding: 12px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .roster-member:last-child { border-bottom: none; }
+
+  .roster-member-left {}
+
+  .roster-member-name {
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 2px;
+  }
+
+  .roster-member-cat {
+    font-size: 10px;
+    color: var(--slate);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .roster-member-score {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+  }
+
+  /* ── FLAGS VIEW ── */
+  .flags-empty {
+    color: var(--slate);
+    font-size: 14px;
+    padding: 32px 0;
+    text-align: center;
+  }
+
+  .flag-card {
+    background: var(--navy2);
+    border-radius: 6px;
+    border: 1px solid var(--gold);
+    padding: 16px;
+    margin-bottom: 12px;
+  }
+
+  .flag-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+
+  .flag-person {
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  .flag-date {
+    font-size: 11px;
+    color: var(--slate);
+    letter-spacing: 1px;
+  }
+
+  .flag-headline {
+    font-size: 13px;
+    color: var(--white);
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+
+  .flag-meta {
+    display: flex;
+    gap: 16px;
+    font-size: 11px;
+    color: var(--slate);
+  }
+
+  .flag-suggested {
+    color: var(--gold);
+    font-weight: 700;
+  }
+
+  /* ── LOADING ── */
+  .loading {
+    color: var(--slate);
+    font-size: 13px;
+    padding: 64px;
+    text-align: center;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 900px) {
+    .standings-grid { grid-template-columns: 1fr; }
+    .roster-grid { grid-template-columns: 1fr; }
+    .header { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .view { padding: 16px; }
+    .nav { padding: 0 16px; overflow-x: auto; }
+  }
+</style>
+</head>
+<body>
+
+<!-- AUTH GATE -->
+<div id="auth-screen">
+  <div class="auth-logo">LEAGUE<br>OF GREGS</div>
+  <div class="auth-sub">Test Season &bull; Private</div>
+  <div class="auth-form">
+    <input type="password" class="auth-input" id="passkey-input"
+           placeholder="PASSKEY" autocomplete="off" spellcheck="false">
+    <button class="auth-btn" onclick="checkAuth()">ENTER</button>
+    <div class="auth-error" id="auth-error"></div>
+  </div>
+</div>
+
+<!-- MAIN APP -->
+<div id="app">
+
+  <!-- TICKER -->
+  <div class="ticker-bar">
+    <div class="ticker-inner" id="ticker-inner">
+      <span>Loading scores...</span>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-left">
+      <div class="header-eyebrow">The Greg Cote Show</div>
+      <div class="header-title">League of Gregs</div>
+    </div>
+    <div class="header-right">
+      <div class="header-updated" id="header-updated">Loading...</div>
+      <div class="header-season" id="header-season">Test Season</div>
+    </div>
+  </div>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <button class="nav-btn active" onclick="showView('standings')">Standings</button>
+    <button class="nav-btn" onclick="showView('leaderboard')">Leaderboard</button>
+    <button class="nav-btn" onclick="showView('roster')">Rosters</button>
+    <button class="nav-btn" onclick="showView('log')">Event Log</button>
+    <button class="nav-btn" onclick="showView('flags')" id="flags-btn">Review</button>
+  </nav>
+
+  <!-- STANDINGS VIEW -->
+  <div class="view active" id="view-standings">
+    <div class="standings-grid" id="standings-grid">
+      <div class="loading">Loading standings...</div>
+    </div>
+    <div class="section-title">Individual Scores</div>
+    <table class="leaderboard" id="individual-table">
+      <thead>
+        <tr>
+          <th style="width:40px">#</th>
+          <th>Name</th>
+          <th>Category</th>
+          <th class="right">Score</th>
+        </tr>
+      </thead>
+      <tbody id="individual-tbody"></tbody>
+    </table>
+  </div>
+
+  <!-- LEADERBOARD VIEW -->
+  <div class="view" id="view-leaderboard">
+    <div class="section-title">Full Leaderboard</div>
+    <table class="leaderboard" id="leaderboard-table">
+      <thead>
+        <tr>
+          <th style="width:40px">#</th>
+          <th>Name</th>
+          <th>Owner</th>
+          <th>Category</th>
+          <th class="right">Score</th>
+        </tr>
+      </thead>
+      <tbody id="leaderboard-tbody"></tbody>
+    </table>
+  </div>
+
+  <!-- ROSTER VIEW -->
+  <div class="view" id="view-roster">
+    <div class="roster-grid" id="roster-grid">
+      <div class="loading">Loading rosters...</div>
+    </div>
+  </div>
+
+  <!-- EVENT LOG VIEW -->
+  <div class="view" id="view-log">
+    <div class="section-title">Recent Scoring Events</div>
+    <div class="event-list" id="event-list">
+      <div class="loading">Loading events...</div>
+    </div>
+  </div>
+
+  <!-- FLAGS VIEW -->
+  <div class="view" id="view-flags">
+    <div class="section-title">Commissioner Review</div>
+    <div id="flags-list">
+      <div class="loading">Loading flags...</div>
+    </div>
+  </div>
+
+</div><!-- /app -->
+
+<script>
+// ── CONFIG ────────────────────────────────────────────────────────────────────
+const PASSKEY = 'asscrack';          // change before deploying
+const STORAGE_KEY = 'log_auth_v1';
+const SCORES_URL = 'scores.json';   // relative path — works on GitHub Pages
+
+// ── AUTH ─────────────────────────────────────────────────────────────────────
+function checkAuth() {
+  const input = document.getElementById('passkey-input').value.trim().toLowerCase();
+  if (input === PASSKEY.toLowerCase()) {
+    localStorage.setItem(STORAGE_KEY, '1');
+    document.getElementById('auth-screen').classList.add('hidden');
+    document.getElementById('app').classList.add('visible');
+    initApp();
+  } else {
+    const err = document.getElementById('auth-error');
+    err.textContent = 'Incorrect passkey.';
+    setTimeout(() => err.textContent = '', 2000);
+    document.getElementById('passkey-input').value = '';
+  }
+}
+
+document.getElementById('passkey-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') checkAuth();
+});
+
+// Check if already authenticated
+if (localStorage.getItem(STORAGE_KEY) === '1') {
+  document.getElementById('auth-screen').classList.add('hidden');
+  document.getElementById('app').classList.add('visible');
+  initApp();
+}
+
+// ── NAV ───────────────────────────────────────────────────────────────────────
+function showView(name) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('view-' + name).classList.add('active');
+  event.target.classList.add('active');
+}
+
+// ── DATA ──────────────────────────────────────────────────────────────────────
+let DATA = null;
+
+async function loadData() {
+  try {
+    const resp = await fetch(SCORES_URL + '?v=' + Date.now());
+    DATA = await resp.json();
+    return true;
+  } catch(e) {
+    console.error('Failed to load scores.json:', e);
+    return false;
+  }
+}
+
+// ── COMPUTED ──────────────────────────────────────────────────────────────────
+function getPersonTotal(person) {
+  const entries = DATA.scores[person] || {};
+  return Object.values(entries).reduce((sum, day) => sum + (day.total || 0), 0);
+}
+
+function getOwnerTotal(owner) {
+  return DATA.owners[owner].members.reduce((sum, m) => sum + getPersonTotal(m), 0);
+}
+
+function getOwnerRank(owner) {
+  const owners = Object.keys(DATA.owners);
+  const sorted = owners.sort((a,b) => getOwnerTotal(b) - getOwnerTotal(a));
+  return sorted.indexOf(owner) + 1;
+}
+
+function fmtScore(n) {
+  return (n > 0 ? '+' : '') + n;
+}
+
+function scoreClass(n) {
+  return n > 0 ? 'pos' : n < 0 ? 'neg' : 'zero';
+}
+
+function ownerClass(owner) {
+  return owner.toLowerCase();
+}
+
+function ownerColor(owner) {
+  const map = { Yeti: '#4FC3F7', Greg: '#F5C518', Chris: '#E63946' };
+  return map[owner] || '#888';
+}
+
+// ── TICKER ────────────────────────────────────────────────────────────────────
+function buildTicker() {
+  const events = [];
+  for (const [person, days] of Object.entries(DATA.scores)) {
+    for (const [date, day] of Object.entries(days)) {
+      for (const ev of (day.events || [])) {
+        if (ev.type !== 'quiet_tax' && ev.points !== 0) {
+          events.push({ person, date, ...ev });
+        }
+      }
+    }
+  }
+  events.sort((a,b) => b.date.localeCompare(a.date));
+  const recent = events.slice(0, 20);
+
+  if (recent.length === 0) {
+    document.getElementById('ticker-inner').innerHTML =
+      '<span>No scoring events yet — season just started</span>'.repeat(4);
+    return;
+  }
+
+  const html = recent.map(ev => {
+    const pts = fmtScore(ev.points);
+    const note = ev.note ? ` — ${ev.note.substring(0, 60)}${ev.note.length > 60 ? '...' : ''}` : '';
+    return `<span>${ev.person} ${pts}${note}</span>`;
+  }).join('');
+  // Duplicate for seamless loop
+  document.getElementById('ticker-inner').innerHTML = html + html;
+}
+
+// ── STANDINGS ─────────────────────────────────────────────────────────────────
+function buildStandings() {
+  const owners = Object.keys(DATA.owners);
+  const sorted = [...owners].sort((a,b) => getOwnerTotal(b) - getOwnerTotal(a));
+
+  let html = '';
+  sorted.forEach((owner, idx) => {
+    const total = getOwnerTotal(owner);
+    const members = DATA.owners[owner].members;
+    const memberRows = members
+      .map(m => ({ name: m, score: getPersonTotal(m), isGreg: DATA.people[m]?.is_greg }))
+      .sort((a,b) => b.score - a.score)
+      .map(m => `
+        <div class="owner-member">
+          <span class="member-name ${m.isGreg ? 'is-greg' : ''}">${m.name}</span>
+          <span class="member-score ${scoreClass(m.score)}">${fmtScore(m.score)}</span>
+        </div>`).join('');
+
+    html += `
+      <div class="owner-card ${ownerClass(owner)}">
+        <div class="owner-rank">${idx+1}</div>
+        <div class="owner-name">${owner}</div>
+        <div class="owner-score">${fmtScore(total)}</div>
+        <div class="owner-members">${memberRows}</div>
+      </div>`;
+  });
+
+  document.getElementById('standings-grid').innerHTML = html;
+
+  // Individual table
+  const all = Object.keys(DATA.scores)
+    .map(p => ({ name: p, score: getPersonTotal(p), isGreg: DATA.people[p]?.is_greg, cat: DATA.people[p]?.category }))
+    .sort((a,b) => b.score - a.score);
+
+  const owner_of = {};
+  for (const [owner, info] of Object.entries(DATA.owners))
+    info.members.forEach(m => owner_of[m] = owner);
+
+  let tbody = '';
+  all.forEach((p, i) => {
+    const owner = owner_of[p.name];
+    tbody += `
+      <tr>
+        <td class="lb-rank">${i+1}</td>
+        <td class="lb-name">
+          <span class="lb-owner-dot" style="background:${ownerColor(owner)}"></span>
+          ${p.name}${p.isGreg ? '<span class="greg-badge">GREG</span>' : ''}
+        </td>
+        <td class="lb-category">${p.cat || ''}</td>
+        <td class="lb-score ${scoreClass(p.score)}">${fmtScore(p.score)}</td>
+      </tr>`;
+  });
+  document.getElementById('individual-tbody').innerHTML = tbody;
+}
+
+// ── LEADERBOARD VIEW ──────────────────────────────────────────────────────────
+function buildLeaderboard() {
+  const owner_of = {};
+  for (const [owner, info] of Object.entries(DATA.owners))
+    info.members.forEach(m => owner_of[m] = owner);
+
+  const all = Object.keys(DATA.scores)
+    .map(p => ({
+      name: p,
+      score: getPersonTotal(p),
+      isGreg: DATA.people[p]?.is_greg,
+      cat: DATA.people[p]?.category,
+      owner: owner_of[p]
+    }))
+    .sort((a,b) => b.score - a.score);
+
+  let tbody = '';
+  all.forEach((p, i) => {
+    tbody += `
+      <tr>
+        <td class="lb-rank">${i+1}</td>
+        <td class="lb-name">
+          ${p.name}${p.isGreg ? '<span class="greg-badge">GREG</span>' : ''}
+        </td>
+        <td>
+          <span class="lb-owner-dot" style="background:${ownerColor(p.owner)}"></span>
+          <span style="font-size:12px;color:${ownerColor(p.owner)};font-weight:600">${p.owner}</span>
+        </td>
+        <td class="lb-category">${p.cat || ''}</td>
+        <td class="lb-score ${scoreClass(p.score)}">${fmtScore(p.score)}</td>
+      </tr>`;
+  });
+  document.getElementById('leaderboard-tbody').innerHTML = tbody;
+}
+
+// ── ROSTER VIEW ───────────────────────────────────────────────────────────────
+function buildRoster() {
+  let html = '';
+  for (const [owner, info] of Object.entries(DATA.owners)) {
+    const memberRows = info.members.map(m => {
+      const score = getPersonTotal(m);
+      const cat = DATA.people[m]?.category || '';
+      const isGreg = DATA.people[m]?.is_greg;
+      return `
+        <div class="roster-member">
+          <div class="roster-member-left">
+            <div class="roster-member-name">
+              ${m}${isGreg ? '<span class="greg-badge">GREG</span>' : ''}
+            </div>
+            <div class="roster-member-cat">${cat}</div>
+          </div>
+          <div class="roster-member-score ${scoreClass(score)}">${fmtScore(score)}</div>
+        </div>`;
+    }).join('');
+
+    html += `
+      <div class="roster-owner">
+        <div class="roster-owner-header">
+          <div class="roster-owner-name" style="color:${ownerColor(owner)}">${owner}</div>
+        </div>
+        ${memberRows}
+      </div>`;
+  }
+  document.getElementById('roster-grid').innerHTML = html;
+}
+
+// ── EVENT LOG ─────────────────────────────────────────────────────────────────
+function buildEventLog() {
+  const events = [];
+  const owner_of = {};
+  for (const [owner, info] of Object.entries(DATA.owners))
+    info.members.forEach(m => owner_of[m] = owner);
+
+  for (const [person, days] of Object.entries(DATA.scores)) {
+    for (const [date, day] of Object.entries(days)) {
+      for (const ev of (day.events || [])) {
+        events.push({ person, date, owner: owner_of[person], ...ev });
+      }
+    }
+  }
+
+  events.sort((a,b) => b.date.localeCompare(a.date));
+
+  if (events.length === 0) {
+    document.getElementById('event-list').innerHTML =
+      '<div class="loading">No events scored yet.</div>';
+    return;
+  }
+
+  const html = events.slice(0, 100).map(ev => {
+    const cls = ev.points > 0 ? 'pos' : ev.points < 0 ? 'neg' : '';
+    const flagHtml = ev.flagged ? '<span class="flag-badge">REVIEW</span>' : '';
+    const rubricLabel = DATA.rubric[ev.type]?.label || ev.type;
+    return `
+      <div class="event-item ${cls}">
+        <div class="event-pts ${ev.points >= 0 ? 'pos' : 'neg'}">${fmtScore(ev.points)}</div>
+        <div class="event-body">
+          <div class="event-who">
+            <span style="color:${ownerColor(ev.owner)}">${ev.person}</span>
+            ${flagHtml}
+          </div>
+          <div class="event-note">${ev.note || rubricLabel}</div>
+          <div class="event-meta">${ev.date} &bull; ${rubricLabel} &bull; ${ev.source || 'N/A'}</div>
+        </div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('event-list').innerHTML = html;
+}
+
+// ── FLAGS VIEW ────────────────────────────────────────────────────────────────
+function buildFlags() {
+  const pending = (DATA.flags || []).filter(f => f.status === 'pending');
+
+  const btn = document.getElementById('flags-btn');
+  if (pending.length > 0) {
+    btn.textContent = `Review (${pending.length})`;
+    btn.style.color = '#F5C518';
+  }
+
+  if (pending.length === 0) {
+    document.getElementById('flags-list').innerHTML =
+      '<div class="flags-empty">No pending flags. All scores confirmed.</div>';
+    return;
+  }
+
+  const html = pending.map(flag => {
+    const ev = flag.event;
+    const rubricLabel = DATA.rubric[ev.type]?.label || ev.type;
+    return `
+      <div class="flag-card">
+        <div class="flag-header">
+          <div class="flag-person">${flag.person}</div>
+          <div class="flag-date">${flag.date}</div>
+        </div>
+        <div class="flag-headline">${ev.note || ''}</div>
+        <div class="flag-meta">
+          <span>${ev.source || ''}</span>
+          <span>Category: ${rubricLabel}</span>
+          <span class="flag-suggested">Suggested: ${fmtScore(flag.suggested_points)} pts</span>
+          <span>Keyword: ${ev.keyword || 'N/A'}</span>
+        </div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('flags-list').innerHTML = html;
+}
+
+// ── HEADER ────────────────────────────────────────────────────────────────────
+function buildHeader() {
+  const updated = DATA.meta?.last_updated || 'Unknown';
+  document.getElementById('header-updated').textContent = `Updated: ${updated}`;
+  document.getElementById('header-season').textContent = DATA.meta?.season || 'Test Season';
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+async function initApp() {
+  const ok = await loadData();
+  if (!ok) {
+    document.getElementById('standings-grid').innerHTML =
+      '<div class="loading">Could not load scores.json — make sure the file exists in the same directory.</div>';
+    return;
+  }
+  buildHeader();
+  buildTicker();
+  buildStandings();
+  buildLeaderboard();
+  buildRoster();
+  buildEventLog();
+  buildFlags();
+}
+</script>
+</body>
+</html>
