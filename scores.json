@@ -3,7 +3,7 @@
     "league": "League of Gregs",
     "season": "Test Season",
     "rubric_version": 1,
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "scoring_window": "daily",
     "status": "active"
   },
@@ -165,10 +165,486 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Greg Olsen opens up about personal relationship with Tom Brady - Awful Announcing",
+            "source": "Awful Announcing",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWlCbERZazhkWFlMX09waXlGN1VFLU8yYWZMUjBmRV9sbW1zbHBpamJQMnc4bDhnVzlGVmlwd3g2cmpzVGcwdTNEUmRuTFdjcGJYNHAtZldkb1V0azk1aXV5RnFUTTBaQ20ySE5NY19QSTJTUHpBSXJuMEFxaDN1ZDEzNE9pcThBdjVENHBWRE5Jd9IBlwFBVV95cUxPN0pBMzBBVnhpbEo0YlJjbUtld3h3SzF2N1U2aTRYODNHN3owVjk5UjdDQ1kyYTE3Mk9sUmY1Rm5tbkw1Z3d4MWtVQkMyMTBneTZmSDB1UjBBMEM0RUhMbTk0aWl3MVdDVjRjbVhnMlhMaXNuczRSMVd1enE5WGNGMlJGZnQyQzFxai1DeUlkRHNjRGFBQUNF?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Panthers’ Greg Olsen opens up about Cam Newton’s Super Bowl fumble - Yahoo Sports",
+            "source": "Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVJLbGxneW4yZWJDZ1FDWFVkb1ZVX0lMOUxiZnd4ajk1OVVndVFJa1U5d3ZURWNZMVdvcGVwODUwNjdJSy1lV1k2bWh3UklhUUlhVkVqMks0OE9FYXF0bkFreVJZMWk3WmRqUUJKd3EtTy0zXzJCVENJd0RHa0hIaGl5QQ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -8,
+        "events": [
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "Packers' meltdown leaves them staring at a brutal Matt LaFleur problem - Lombardi Ave",
+            "source": "Lombardi Ave",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2cza181WmprTFlZNXNiZ3E0MXBBN1NUUThTWnFLYlZvOXBxc2dsblBDQUIwRVUzNERYWUpzOWJNNG9QSy11Mm5lY1pDaTJnY3htWTBTZUN6WXVqVXBPNVU5VXo1S0NlNlF2c3p5a3kySnhDWVVXRHlfQlJqZFBpRURISGJRd3lVVGNj?oc=5",
+            "article_count": 1,
+            "keyword": "meltdown",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 0,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 0,
+            "note": "Predicting Who Will Present for Luke Kuechly’s Hall of Fame Induction - Sports Illustrated",
+            "source": "Sports Illustrated",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWp6QUZIQXdDcEFubTdtN3hvQ294enF6T0xQX05UYXY4bXR5TTZWcmxVdHlNY0RkeFcySGJIaVNhX0NBaXo0Z2EzM2dEalE5Vjg3UnludWxLMGNOekVmNHA5U3ozdGQ0c1JpZ1kwY1pjOXczZDJscXRaSWNyVUEzRWo3ZDIxWjBKbExPOC03YXA4Znp6cGtVa3lTNEtIQQ?oc=5",
+            "article_count": 1,
+            "keyword": "hall of fame induction",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": 15,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "Panthers legend Greg Olsen wins Emmy over Tom Brady - WBTV",
+            "source": "WBTV",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWJscno2QmQtY2tLbVpZREJac3BfQ1lvQ2E1cFNnWk95M0hraHcxWExPOXNXYzhsUVJiX0hWbFpLM2k0aFE0VkgybkNrRVA5M2FBMjBORVpKS3JDVG5DbWpVQzZJaDVTYTEyWklXT0tVNEtiMm15b1hnbks4ZTZwVTVvRVA0aFpQX2lYRtIBoAFBVV95cUxOeUxNbjlSY3p5VGJRcll3Qnp3UEhfNjNZdGh0eHNkZVYzajBtbm1EcHd5SFZHSGZmdGxEbjZHOWE0REI1WGhPYkUwV0dOX1lWMVoxaUtFZ2czd0I3ZmlBbVB2R1VUWmE2UFMtZzN1RFNWV1N0NlNEQXdKX1laZkdac1RrTTFseWMtVmdiRUFKT0ZHQTB2WjJRU1ltWnJ6LWQt?oc=5",
+            "article_count": 2,
+            "keyword": "wins emmy",
+            "flagged": false
+          }
+        ]
       }
     },
     "Greg Norman": {
       "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": 15,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "‘A great honour’: Greg Norman receives Lifetime Achievement Award - The Australian",
+            "source": "The Australian",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcjZTejlYSVdnQnZJQVZRUzZNT0cwVTljSzZBSzBXVWpVWnlmWkhZbUVqU082N1l1OUhOak5iaEU5RXB6MWFpa0dzY0dpeUhHZVN3WUphN2x2S2pXbGUyV1YyLVcxa3c1TVNKa0E5c2F0WlZ4eWI2S3JvUzNTemc3WV9fUUprX0QtQktxSFhlN1dTcFJtd0VKNG1CekJrRmQ4SzBsYi1GZWdvbFhoMmhWMHAzNkU2bnJQRTZYN2dtenlxSWpaa1lfc2RZVl8yN05fSmkxMW9zZ9IB3AFBVV95cUxNMWgyRXBWajhxdFI5VmZSTVhjRDZGQ09aS1BTQzNkNGJKWmNiUm9WV0ViSnY0WmJfQzYyOG92NmRjT0wxYWtxdmluU05Sd0RIWmFzWE5JZTU5b00zQVVLdWlmUjRGcmNMdTZTMXVPcmY3TnFkeXVyZUhPNm5sdnhPallOY3VZWkpRSHJsQy1WQ0pfYkNfRW5qdlZnMktnYVM0ZzdsN1E3VTkwRTItZTltQzl0ODh0cFlRUHNSeWxuVUYyTWhlbDgyeXVzMDlVcThmR01hYm1BM3NYRXJn?oc=5",
+            "article_count": 1,
+            "keyword": "receives lifetime achievement",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": 0,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 0,
+            "note": "Australian Golf Star Cameron Smith Reveals Why he Signed with LIV Golf - Man of Many",
+            "source": "Man of Many",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oT3Nnd1lSXzdjbWpkYnBDLXdfN01QdVVReHNCbnU5dUxmVDFBVW45ZmFWNHJPUlZlYlAzbnlRb29jS0UtTmtndzBiaDJnNVkwWmlDQXY3Z2FJeEs2bVBlX0FXcUdIOVlCQ2JQT0swWjZRUQ?oc=5",
+            "article_count": 1,
+            "keyword": "signed with",
+            "flagged": false
+          },
+          {
+            "type": "arrested",
+            "points": 0,
+            "note": "TSA agent arrested for allegedly attacking 79-year-old passenger at Florida airport - Fox News",
+            "source": "Fox News",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWp6YldzWjkteDh6S0Y0aXNYQjZ5WXlHaWFoQThMM0VSVXptM3NtN1Bva05KVnJZZlBqZ0lPWGZqWjVmYnZfV29URTdPdkJFM0pnZlhHZlRDMXhSR01jNGU3MUpEdC0tLTFGTkxIM21kbDFrWjlYSk8zeGRfejNFMjZjUm5ES1dUNlNpbm9UM0pXNzZVa3lJNW1zV0ozaXlfekhsWFln0gGrAUFVX3lxTE5pV2EwbWZnWnN6VVVJVnhURlFiYWJfRk5KY1Z6UzdyUlR6UW94TnNjcEZjcXpLZjMtcmhfZk5FdHMxVUZkWHhoaWtiSkdKNFJpVThvYVhsSVV0T1ZlaU5ETUlLRURYbWFST1REYWZJQ0pyejBIdUxNR1FqTmpEbjZyZi1LdzRfOVJELVdjUDd4djNubkplWWZTSEVlUkxpMzluXzc3YlM2ZmR6QQ?oc=5",
+            "article_count": 1,
+            "keyword": "arrested for",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": 0,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 0,
+            "note": "Liverpool soccer player Diogo Jota dead at 28, weeks after winning Premier League and getting married - KTVU",
+            "source": "KTVU",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjJJYU9LWjNnR1l1ZENJWTExWUNvQUtfZ1lJM25aWXlnWG9oY1N2T0QtQXVpLS1MWnpLcTV4VmFxckMwa0oxbXBKc0VqalZRaWZ3QTY0b0hhLW1uRm83V0gxanR6WFJhVzE3VW5kOV9yS3d4RDJBY2tnNldVN0hlSjA0cWRLZlFLZ25VTEo4RnhVdjhZWmN0WVMwVlVoT1JwV2RuaVBLb29uRGNsMEtzc1Z5YjVfajBpRnhj0gHAAUFVX3lxTFBEbXpsUzhOZFM4QlRtSmFEQlUxbVZKMlY3dzF0c05HX3lMc3R1SENDdzFyMTR0NFlDd1RrS0ZvUGk1MzNKYlR3UjAtekJHcDFxcE1RaDJZOXN6WXJEcUdRb2NXNHEtMUVKLUVXelN1S3lPbWY5VFBGVDI3RE5HSjNLbzlVdGlXX0ZubktoajJYcGtIZXhoa3dpM1hSb3ZpdFNNRXFJMkpyTTZBZkJpVkpaRUZ3NmhNckVFbWZTVWR3NA?oc=5",
+            "article_count": 1,
+            "keyword": "getting married",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Greg Norman opens up about his time with LIV Golf: 'Don't judge me' - Golf Digest",
+            "source": "Golf Digest",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFdGVKVkd5WWxTcUQxanpCemJiNHJvWldRcFdrN3U5ZExPOS1JYUdROThSTVYyY0ljLTR2THBKNkFFSjJPazlNQlZWY0RGUjVhWkctSUxZRjRvZHhkeGtDNWZIamVEaFlWcTRlTlNtMEs?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 10,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 10,
+            "note": "Golf major champ who sparked a Tiger racism row and broke The Shark’s heart passes away - Fox Sports",
+            "source": "Fox Sports",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLU9WMXNQSjA0NlNJcG1UaEUtNHRXOG1kYmtzV1JTd204VzhjWFpEWHVTZWRYUlp0QTdyeFJjRTF4dENaci01UHh6Z2pyNDlEYmcyMlVHWmw4VXQzdHJhUXRiY1hmTEoxM1Y2WF9abjhIU1Jyek1VbkItUTZudDBjeEdfSnRBNWd2cFl6LTUxckdKU1VrZlpqeFJJV3I4Q2daSS00NzVrcGlUVFdyUDI4ZHBkdjVXV1dPM3A2cGdxM1MxMUp0YU9xU2JQTFB2WHczaVAtS1BVcVZ4NDUyNzl3NmVKcHU5REVWREpQdVFMQ0QxZnBhbGRN0gH3AUFVX3lxTE8tT1Yxc1BKMDQ2U0lwbVRoRS00dFc4bWRia3NXUlN3bThXOGNYWkRYdVNlZFhSWnRBN3J4UmNFMXh0Q1pyLTVQeHpnanI0OURiZzIyVUdabDhVdDN0cmFRdGJjWGZMSjEzVjZYX1puOEhTUnJ6TVVuQi1RNm50MGN4R19KdEE1Z3ZwWXotNTFyR0pTVWtmWmp4UklXcjhDZ1pJLTQ3NWtwaVRUV3JQMjhkcGR2NVdXV08zcDZwZ3EzUzExSnRhT3FTYlBMUHZYdzNpUC1LUFVxVng0NTI3OXc2ZUpwdTlERVZESlB1UUxDRDFmcGFsZE0?oc=5",
+            "article_count": 1,
+            "keyword": "passes away",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "LIV Golf boss Scott O'Neil breaks silence on 'unfair' OWGR decision - The Mirror US",
+            "source": "The Mirror US",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96MVpUSDY1eGhWT2puUU1TdEdYOGFmZGlHR2V5Ri1KRm1Wdno3dFY1T0hLcmdWZ0JDX3ZrN1lFdmZvdGVDclJXSjI3RExkUVBoZWRSWVMzb256Zk5PaGJ1Skt3Q1ZXeEotUFdUS2FpdTVlTGR0WE93eXZR0gF_QVVfeXFMTXlLVGhrcE1ONGFWNl9uY3dEX0ItZzRBbnNncGdMQzVhNzRPWXd5OXVtZnBGMWI1dWlSZFZzTkhzX0NveXdzMTlCQk50dmVoenBqWi0tdGtUci1XTlZubWhwRFlWbk80N2ItSEYtUDNJZ2JPYlZndVV1QUpsYWdlTQ?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -8,
+        "events": [
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "Greg Norman blasts Nick Faldo 30 years after famous Masters meltdown - Toronto Sun",
+            "source": "Toronto Sun",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnlGN09ZNFIxM2xHT0NrZVFqWEVKeHFQTU5yTG1XZVk1UzVYY1FOQXlCUXB5VnRpRXNkY04zOTNkTk90Mjc4RzhRMENxLVd4Rmd3UGNPYTR1ZWZJbHowWnNKVEtyclpESHB6elV4elVBVUI1amN5b0lLMXZXN1pQaXRoVU9scWNI?oc=5",
+            "article_count": 2,
+            "keyword": "meltdown",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
         "total": -3,
         "events": [
           {
@@ -195,6 +671,229 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 0,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 0,
+            "note": "Mckenna Grace Cast As Daphne In Netflix’s Scooby-Doo Series - Cosmic Book News",
+            "source": "Cosmic Book News",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxc295VjRqSks3LWhBNzJla1ktd2lvRVZsZGVjU0RyUTktclVhSHhnQ0ZOa0xtQ0h1OE9mUmVMdnhzSDlCZ2dHN0I5UG1NdE0ycUdybVFZS0FsRHZyYmhOZ2JTVlozd2NBc3luNXJyejJleF9vX2xna2FqZw?oc=5",
+            "article_count": 1,
+            "keyword": "cast as",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
       }
     },
     "Taylor Swift": {
@@ -207,6 +906,275 @@
             "note": "Articles found but no scoreable events identified",
             "headline": "",
             "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "No scoreable events found",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Patrick Mahomes Opens Up About Building a ‘Great Friendship’ With Taylor Swift - Billboard",
+            "source": "Billboard",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRm04ZEtqbFJSeFoydFZQdFNCdkhrZ0tTSkhTM0M0X0hKd3N0cTA3bHhPTnREYXQxU0ZDYnRlcF92WFhiQ0lGU3RGU1F2UEtZaFh2YUZYSDc1MVBMYUFETVNER29IRm42azdVY1dQbXhnLW9feDI3ZlEya3U1RHhBU0dVS0xWRjJfQ1ZPTlpweGI4Y21PYnVId0JYZVNyLW50SkE?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 9,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Christian McCaffrey’s Dad Breaks Silence on Taylor Swift-Travis Kelce Feud - Yahoo Sports",
+            "source": "Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaThyenRNbkJYaFNwR1hNY3d1R2VqeGxNYmR4VEVjajZ2a1VyLVhCbUtFT2w4bFlnWTNEUEVLaWE1dDRhTjF5MWNaTUdaa29KX0Y3VFR5bVA4VXNBaVJXQXZmNF9WNURNRWN6bXlUV3JmN18tRU5oc0k2Slp5bjI5QmVOWlRWSk9YTTk4Ukp6cw?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          },
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "All the eras of Taylor Swift’s Met Gala style evolution - Vogue Australia",
+            "source": "Vogue Australia",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDR0cGhGNUhhalNyMWpaYlNTWENlUDNGRm13WDZadElMZHk5RWZNLXVWT0JoSWlyTV9QTU16NGROMDRCd0xvN2c5ZUlVazJTcGhZVGN0S3I2THNMeGhzbjUtOU1VYTFJaE5PenpwUnFEaVB4VmxmV3FmUDcwZGlPOWluaXN2ZXFrZ2Qxb0pwVXlMNVp4MHluUEZDSUhpRVlXMGRmOTJkT0U5M3MtNlpoeWxVMlpFRFEzSEVJN0dCaEw3emJPZEHSAcsBQVVfeXFMUE1kTHFMQzJ2Y0h5M1haTjdhTXpJbHQ2MGVlYWxZUnpOcUxuQkhRYnRISDRfTk5TTWhock9CQWl6YWxpdHU0ZWhvWXIwd1hHSldGTXpmM1NsR2ZPcVRIX3RpUzZWdm1wZWhzNlZISmp5SmJyWU5zRVF4a2VqWDJvM3NCdmtKRV8yU01DTGdWd1l3UHNLeVlHRUVvRFRPTnp5eXh5TEowaFdnb3JUeWRQSkFsRE5XaERRdm52aG5fXzAtQlBHVFhMcTZDdjQ?oc=5",
+            "article_count": 1,
+            "keyword": "met gala",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": 13,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 10,
+            "note": "Kansas City enthusiast Taylor Swift gets engaged to Chiefs tight end Travis Kelce - KCUR",
+            "source": "KCUR",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmFnXzBvbTZ3d1E4cUdidE5rcXh1cU5JYXpsVVZlUFNZYVltSWxZTm5uQmM5ZG4zdkZQd2JwcUxPNTZ2UEtQYzNvY1FDN1JJVEltOEpLY3FWdGZqX1BDVXlmQVJiZjkzY3kybmpIYmFyemNxbDgwWXJkOFFzdlZaektGeU4?oc=5",
+            "article_count": 1,
+            "keyword": "gets engaged",
+            "flagged": false
+          },
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Taylor Swift opens up about 1st date with Travis Kelce and his 'wild romantic gesture' - ABC News - Breaking News, Latest News and Videos",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWlCR1lvSEc5V3lRSWNROVRWdFY2cmprWUhHMzdKcjF4ZHlTVkxoa0ktaEhUdXdwM0xDZEZjTUhyVUNwdk80cF9SZ2l3S0VwdXNvZHh2NWNQek93UUJWUzRGTTZOdE5kMHRoVGo5MGdZMy1YR1E1a25TR1NkUkVhTElqMzZDeGRaVzhhY3F5Vk1TOENPVHVrV1FR0gGfAUFVX3lxTE9Cc2ZNaEt1VzFXUzZGZlRhMVIxMUdVYk5WN2lDREJLVDBXQk1lN1NHYUVrZHNpRGJvdzQ4SVJ2SnJfcVk2RTBEdFJHb3ByNFNfRHU3TkstZGVkaVJ4SU1DVmpuUHR0NDFKdG9BaWVCbGFmOVh3N2M1UG9COXJ4U0twN3o2b1Bia1F2bEZ6TVlydW9ZTWtiellJS0c2cWVNMA?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Travis Kelce Breaks Silence On His Engagement To Taylor Swift - Bustle",
+            "source": "Bustle",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOElFb0toRkRyMDFET3FycmxFU25QNHR5VTI4Unl3cHp4WndGQnFtMDNuaDFqemtTbE1SdlNDUTVuVm04emliUkt4N1ViQTR3M190eUVwelpsaExtTVJ0ZjJCak9ZZ2RkMThYc2hDc3V4ejN3aG9Od0p1VHdnbk9uYVl3?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Taylor Swift Brings The Eras Tour Full Concert Film to Disney+ - The Walt Disney Company",
+            "source": "The Walt Disney Company",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvaHdPVVc1eEViVzBUOGlqOHdURzVhb1lkTTFpTkgxT1EtY0ZHQjZkeWc5dlJNUU5ZcExGTWRZY3lHRGlMVW9tQ3dURC1pZHQwenl5MGl6elAyYXJIcTg5NG40ZGxCTXJsRnRod2l4UXJ1SXYzaG5nUjBaSVRHUQ?oc=5",
+            "article_count": 1,
+            "keyword": "concert film",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Taylor Swift’s Showgirl Era Continues With a New Tour Documentary and Concert Film - Vogue",
+            "source": "Vogue",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjJPbEcyZUd5RmMtRkpUMUVndTFsOVZLSGxuU08wU3FVRGJWMEZOcUVDdG00RFFESk0td0ZhZ0lBbVYtU3pxbF9WNmFROG1jamE1ejNaQ0Fuc0hXOFdLNXdyMnhiczFFdi1hRlZGQzFlQXMyWmVfWEJsWXRTTDMxMDFYeWdNNGZJSzVHM1RCdzNnNC12MVE?oc=5",
+            "article_count": 2,
+            "keyword": "concert film",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Taylor Swift opens up about UK stabbing attack in new docuseries - ABC News - Breaking News, Latest News and Videos",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXUyd1B5Wng0VjV2TzBKdGhQaERTNnFmTkI2RS1jSDZrbThRdGY4RDBJUEJqd0dFZFp5dVNfSlZKZElueWdIQXVDUjJVYWlNMmQ4OEFSZXRnRGQ2alNlWlh5aElDNkpLMUt0ZW9OZGtZNGE5UWFOanVzR3FfX1ZMWlZWbmRWdVFoLUs0WC05ZjRoYi1mcjFUTnJCRFI5RUlUSk5Id1B30gGrAUFVX3lxTE8yN0FYSHB1TXNhTldlbDRCdFNUQVRHRkZRdUxIM0pHZ3pFMTBZYWh0dFFnTDZoWGpxdGtXMFdtQnN4M1pSanU0OGhQVmdtYnY0M3JEMlVYcC13ZXNUSXNkX0RrM0U3bzFyUDlENUFpMXhFbXppWW9GdmF1bmZ4aG9FRU1YRThXZEFwcXRPblVQQ0kzUGFCN09lWTVyYmhqRW1sVW1MbmlQVTZuOA?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Jack Antonoff opens up about missing Taylor Swift’s ‘The Life of a Showgirl’ - GuitarPlayer.com",
+            "source": "GuitarPlayer.com",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSGJLUjkxbXg3VllRRG5PWDItcEFtRnE3cWtwYUgwd2NQSWNPRi1PR3E1cUtudDAwdFJzTzdjQ05CNThmNWRWVTcycHhzSExxYjFKZVlVZlJzdnU2b0ktckdUR3BGSHU1cHRKWEwtNWJEOG1IZjhxMjN4cl9ZWnRMeDdtWG5FZlhhWVlYMXptTG44TTUzZ0R2SlNiemZJY0JFX3pIaWdrWHpGaU5XVFZsLTdDeFVlVGt1MWlyRHlPbGlpbjJlbU12YXY1bGRSdWVSLUV2TjVTNF9ROERyNkx0ZkpDRUhZaVM4dE81VFNmVW9teEFJ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Scooter Braun Opens Up About Taylor Swift, Sydney Sweeney - Variety",
+            "source": "Variety",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWlDaXBHbWpNdE1GeDZVV3pZb1M3OWQ5ZkdOcnB0WjFoUTdlTEhELUhxRFd5RGRuRmloZnB2ZWd1SzU5alJCNzZNRDBqUk80dVRXMTdVdy1OX0lUVXJjcFFQUzZHTWVaVkowd0poV3dCaS11ZFFSX21rZHRFd2FwNVBkbkFuOFBmUERVS2lHVEFqME9oOE9mQmhuTnJNeVU?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          },
+          {
+            "type": "misconduct",
+            "points": 0,
+            "note": "Austrian Man Convicted of Planning Attack at Taylor Swift Concert in Vienna - The New York Times",
+            "source": "The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWZXSWdfODVIZnhod2tXck1ZSlRhWUpvNlI2NXc5eFFEWDlsVlh3LTFRZGdUeTNYZWc1Vk9yVGJvZGFMOUFoeDF5U3FwQW52dk5SbEtpMmlQRTVtRWpQRHIwVnBSUTlnNlY4cGdBMEtYTGRNSGNpUWh4UkZ0aW5sVEtqbXBQeUlucmwxQjJSWUc?oc=5",
+            "article_count": 1,
+            "keyword": "convicted of",
             "flagged": false
           }
         ]
@@ -227,10 +1195,488 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Hollywood’s Highest-Paid Actors of 2024: Dwayne “the Rock” Johnson Tops The List - IMDb",
+            "source": "IMDb",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tb3VLWnhiaW9nLW03Mk1fZmMzZVNlZ192RUVkS1YzT1dDdjBWcm1oWlJzLW1oZEgzYmJDLWNHeEtJZ05BNTJDY0FXZzJ1UQ?oc=5",
+            "article_count": 1,
+            "keyword": "tops the list",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Hollywood’s Highest-Paid Actors of 2024: Dwayne “the Rock” Johnson Tops The List - IMDb",
+            "source": "IMDb",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tb3VLWnhiaW9nLW03Mk1fZmMzZVNlZ192RUVkS1YzT1dDdjBWcm1oWlJzLW1oZEgzYmJDLWNHeEtJZ05BNTJDY0FXZzJ1UQ?oc=5",
+            "article_count": 1,
+            "keyword": "tops the list",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne ‘The Rock’ Johnson breaks silence on Wrestlemania 41 - KTLA",
+            "source": "KTLA",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlplOGFZbXdlYzdMYlRXOEZKdHB6U2tUZlQ3c2dhOWZ3VWlWSkgtZ0U2U3hwcG10dVdsTG16TUxyWFNNZnBOelBuQlF4R1FEZkE3R0Z1XzBMLUc3emNDVlFLRkFBdmE2Smk3MUpZMFd0S1pJRXBESlZfNmI5VWgwSVhDTk0waDA2Yk05S3NERXNxOTTSAZgBQVVfeXFMUEJQWjV3MUM1cHZrSzlOc3h1MUtVUTlnT0tKSm9WRzE2ZVlvS2VyVnZHZmNtREctNGlwXzdIb0pkcERNVG1sbkdjTHU0QXZnNTBydGc2T2o2SmVfU29sYXJKLXlxT0RuOXlTS3RKYmtQcmF4Z3pBeE43azd0RmcyNENjWVFDNWgzTWFiYnVzQXBjbE1tWHBTemk?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 8,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Dwayne Johnson Cast as Motivational Cult Leader in New A24 Movie Breakthrough - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVQyRkhOQllpa1VsdG9xVU9URlVqTVNrNjB1X0FRcjJpRkpVTHN3UENHZktuWTg3MnhldGs2YzdPanktdFE4bkZNeXpDQkdNOXFxNGQxVzdudkxYUlZVM2JaeGNSOXRpbTBWSUxOeFBSdU5rbS1NclA5dmdyTFZNVE52R0x3WG9DMUpJalYxajhtWnpRT2dRNjBCcXkydw?oc=5",
+            "article_count": 1,
+            "keyword": "cast as",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "The Rock opens up about his health scare and shares lessons every man needs to hear - Cageside Seats",
+            "source": "Cageside Seats",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ3kwcnBnOFExRzEyQ3luajFUY012eGJqSm1DTk9TUzFCSm9jOU5Ubm5ReVN3QUwzQ253T1hNSG9uRUkzcGthSUhPVkhrU0lxMU5HazJ3ZHl1RlBKOWVVR1ZFZnlCZ1l6dXlpeFZONmlDNFlpZ3FCM1VuVVV3VjhfallmekZSdE9QYUJCenFmYWVHcDA2T1ZRNGRsQmNzYm9HeFZWdS1BM1ZraW1tNl9mRHZGenlyRlRYYXhZeExJeml4Y1BVMndzRkZscmVSRWRHRlpzMFlVZGRiejl1ODlvc2szZmhHeGd3?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          },
+          {
+            "type": "arrested",
+            "points": 0,
+            "note": "Monticello man charged with Rock Hill woman's 2017 murder in federal court - Times Herald-Record",
+            "source": "Times Herald-Record",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3dxODdLZFZuT1ZjNzhhdkZxR29uQl9BR1ZtYkNGQUN3MFRVRVZEa3BUbFhOM2ZTVzdrWGZiZjZCZmNWZnlFSk5oOVhTWEF2N2ViaTl4aDd4U2F2YjY1XzYzVEVqWjRfQ0RSemNkVmwtQ2ZWZDlySHk0NFBIUDdMVFhKR2RlNVBldmg5anV3d19IVGZzakhMcmJrNHFFelNBbnF6N2drQlRZQ3oxMTlGX1c4T01vOG9wd2RVaFdkeHZyVnVP?oc=5",
+            "article_count": 1,
+            "keyword": "charged with",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson Grows Emotional as He Opens Up About Wanting to 'Do More' in His Career with The Smashing Machine - People.com",
+            "source": "People.com",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNG1hRTVLa1B6WW51S0dqbTE5TE1QUWl3eW1FNk92d3J3R1NCTkRXaTljbnEtVGg0a1lhYV9wUU5fR1hOc1hGSHlEMkJpRGN0QUU2a0lWVmpicVBMUzVNbnlWWFh0d2lnMThVZjBpTFlXLXA4aGZEQllMaWt4ZU4xOG5mSnVVOXdFdF85blg1NDFSTmVKMDFQYXFR?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson breaks silence on 30-lb weight loss - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBuVFpUeGpzeks0cU1YZk5hSGhtUnhwSF94UUhQNGNUZnFNWTBJQ1A2amYzakNXWVJJMUE1NVo1RzJNYUlaeGoxUWlMWEJ3aUo3RWlEbklPNHJsV0RjTmY2QjRqZDlzcTkxQmdjTGZtZDNpN3hrTWZQam02V2lZMGtTTk9kTm4tR0ZwQi1FbXVVc1lpQmRBQWF5N0w2QmNC?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson opens up about unrecognizable 'Smashing Machine' transformation - ABC News - Breaking News, Latest News and Videos",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHV1TE1DQVA3SHZ5WkZkMkU2OWMzSThZSkwteWRaX1l6ay11ZVRxTTB6ck8wVXFabzhkUGl6cExXNGxzVklESVV0dENiQ21NOXlHeVZoR0pSSzVmaUFKYVNpclJBam1IbEg1U2VkQXhjTHZELW5KM1JEaDV5SjBtN1QxOUFXaFBDOXlOeUpidXVkZG1kZzdkVndTS1VBRmF4aVBTdFlzZVJRWFlRVzE3OFdR0gG3AUFVX3lxTFB2dHVBX0pZNDNZWjBvSWhfM0pLdzcwakRUSE1OZEoyY0pjWVNScXV6VmNBQ0xFcTRZY3ZKRWRYaU9HY2V0cTFORlVYdzNTLW5MdGNqTlFibGpCZ0ZmdHNLWFI0OUlvRWwzNC1SVjJDd09GT0dFRW03OEdCX3dVNm5WbDZLM0wya3B5bi13SjBhMUZ0eWtwRkI3a3o1V3NlMjFkbnUzTTd5a05pUGt4SmNJODZVLUhYRQ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 15,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "Dwayne Johnson to receive the American Black Film Festival’s Entertainment Icon Award - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTBYU0FMNHJCVG12Wlh6S29oZ2Fsbi1MZ3FnSmZMY1dkRTRCTFlDOHpKRDdWdGI2T0hjWm5qWUlJQ1Jrd29VcVhUcnRCQkREOTBUNXpxWnhGRmZqMEl1bGoteXJuOWpWYnlRc0ZEUVhqWGMxbFV1RGxHQ0hRWDRKVTJUM0xLeDljdGxqbUhRU1B4dzZnVUZwZ2tZc2VGc1Z6eldpRU1UMWFpdkE?oc=5",
+            "article_count": 1,
+            "keyword": "to receive the",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson breaks silence on 1st Golden Globe nomination for Smashing Machine - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXNNTkhNR2RudndnWWZLYnU4NUpxTkpua2tQUGgwU0RyZDdENUN6UGFZZ0ZjN0VVSUZiaDhIUzM2V3dhSUM0UzlRWFp2VUdfczZuZ0txMXp3YlRNbXBhNl9CQjR1TDdUaGxpaWJkVmt2SWlUQ2dVREFHOUljbGdTYVNQc3NWNmJEa2pjQk1SR1lDczVnZmpBZlJJcTQzeW1KVWc?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Dwayne Johnson opens up about painful childhood and family struggles - Gulf News",
+            "source": "Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0FaNmFFUmRkYjBnUFlHNG5fR2U3U0pwWG81Z2xscHRfWTRXcGhJei0yNmRMbVJ5bXltZ1FNUGRaOFAtZlZYVi1GZ0hjTjhHX3NfOGdINFdMZV9qR0QxU1FVTFR5SkE2NDBka2lHQW14Z0VCbFZHSFEtMFZsTjA5VS1iUU1fYmxXVzFUOFJzQ0xxNXlPa0hQOXlpZnFXLWM5QUtidEtHVlFYZk00SWNHekFiMlBFUkhtOGxRYzBIRFJ3RDjSAdYBQVVfeXFMUHZ2NFNPSjUyQmZVQ1AyWktIOVNvU1dDdGc4WjZqTTFkUjdjMGE5bkVueDBaZ1hPSUJ3VVBvUmpqbTZWb1YwUVprd09VMTVuOTliQzBCcGpDZjRPRG5xT2RFR0dpbExrWXBFSnpBVDRydEJYMXJtdGJfVUp6a21wdmNfWVRlRDNKalFZSDRCSGR1aHlWb1BhYmdaOHNKalp6eFY0OXZ4dERFSTZ5akN2UWI5SnpNdnpIUnhKcWU2YW16cDJFbXFWTERhUFByZ3BMUmlUckVCUQ?oc=5",
+            "article_count": 3,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Dwayne Johnson Wears Skirt to Met Gala Because the ‘Most Masculine Men Wear Skirts’ in ‘Polynesian Culture’ - Variety",
+            "source": "Variety",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdC12ZE82TUdvV3k0dF9KbFNRMHd3RTh3SDVXbl84T1paaV8zTEhDUXd1cUFZcWJaTmcyOGNBQTJucUNjYnlxaWtGb0NjakxYa1VnaGo4enRzc3poNFZiU1VCbktOUm1OenYyQWRham56dHpZaDFza1RVdnkzYlA2WDlZMXFXNHhaSXN6dnhteXpIR0U1UjR2ZDdxMEpMRDgyUDJV?oc=5",
+            "article_count": 25,
+            "keyword": "met gala",
+            "flagged": false
+          }
+        ]
       }
     },
     "Greg Maddux": {
       "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": 0,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 0,
+            "note": "Hall of Fame 2nd baseman Ryne Sandberg has died after battling cancer - CBC",
+            "source": "CBC",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGhTclZTRWJDTWNWY1lLQm13Sm84QmVxeExFTENoMXV6WDM2OUNYZjJCUVpWMUhwZ01qUjFqQVBXRmZOWUlzODhjVS1ITnVUdHZFNXZWU1E4WGo4U2JjM01oUnpGa19kWnRsSmVGTFFEV1l6UkJ6dUtnOU44Mm9ZU3ljTHRYaVJVUi1GNkt3?oc=5",
+            "article_count": 1,
+            "keyword": "has died",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
         "total": -3,
         "events": [
           {
@@ -257,6 +1703,229 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": 0,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 0,
+            "note": "'Margo's Got Money Troubles' Renewed for Season 2 With Eva Anderson Promoted to Co-Showrunner - TheWrap",
+            "source": "TheWrap",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemdsWXYtUmRTazhEQjREVUZ1eEl2VGktNXZLRzFQUTBPeFQyZHZRemNTVG5uZTVfcV82NGlPU2ZsYkJuRlc5akRqMERkM2JRckdDcmNFRTdBcWNlWUk2X1NxOGsteHJnS005c1huLU9EczgtVXdFM0VldFltV21sdnZiX3RsckdVeUpVZU1wSVJjdGFrMDVIRw?oc=5",
+            "article_count": 1,
+            "keyword": "promoted to",
+            "flagged": false
+          }
+        ]
       }
     },
     "Greg Daniels": {
@@ -272,10 +1941,470 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
       }
     },
     "LeBron James": {
       "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "LeBron James opens up about which of his four championships meant the most to him - Lake Show Life",
+            "source": "Lake Show Life",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkxESUU5WEY5M25xUVdyay1IRWlDUjNoWjBaYWFnaFRvNm42djVCMC1KUEgxdTNOLXBSOHJaQlpub2VXS0tKd044ZDJRTmJ5eWhERUhtWlJMWnpWSUpSTEl2dXo3ODl3bVNlVmFZYU1qN1JXRXN5N1hkcnMzYXlsSWc3Nm9NN3JuTHFPaGVwbk1Pd0haYWd4R3BDN0lXcU84MWxsUm92b3I5Zw?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Simone Biles, LeBron James top 2025 Met Gala committee - ESPN",
+            "source": "ESPN",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXk2NDFmMkhFTTN1MVp4NzRmenJXMTY0X0JZcWV3OE52RFlnRkpwREhNak1QN0lFOGhCcTViVWtYcjVUUGs3QXRVb3BGNTJUTWtuTFdlZ2hpZC1fNE9aMDRoU1BpZ0ZxT3FEVjM1SUdLVER5bHlPNkhSOS1INmREV2RiazZnTVdfdVpFNU1oeE1Tc1owWHl2aHRMZWJ2b3JGckJlR1ZVVEJVbXQtZ1NNcEdReDg?oc=5",
+            "article_count": 1,
+            "keyword": "met gala",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Met Gala 2025 Cochair LeBron James’ Red Carpet Moments Through the Years [PHOTOS] - WWD",
+            "source": "WWD",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTFuSHRiaXliU3U2RzhzU3F2dGp2LWlPZWtIbEhnQUo3dndXWjEwNVl3dkUxX0tINEtzYndiM00xdHMxSDAtci0waFhvZFNMbGYxR1Q2YW84N1IyY1BXOVhvUzlQaHJIN0ZUR2xFVG9QTnBzblFsVG1zZnVTaFB1U3JoWHJCeGhpSUI2UXdHQW5iNWdIVUE?oc=5",
+            "article_count": 1,
+            "keyword": "met gala",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "LeBron James Breaks Silence on Questionable Foul During Playoffs - Sports Illustrated",
+            "source": "Sports Illustrated",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTM0ckllOVdGdW9UUXZmank3WnFlRzZTS1JtOWN6cWpsQ0Z2MHdiTElRWkQ1bnZJbXdkQ0YzZXVMNFNSdF9yVlVpTDhHVUxXMnoweG9mU1VmUjljcHA4NENTWGl5LVdYVDdyQzNteGNscmpfRzFqbHlEdFVNMUpXangxVzZsTVFTQjh4aUJsekVWS3dXVGZVeGFtWExubERGa1FzSGFLRQ?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": 15,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "NBA Quarter Century awards: LeBron James wins MVP and two other honors, surprising pick for top defender - CBS Sports",
+            "source": "CBS Sports",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTRFUlJnSjhsZG95REVqUnM2M09jeDZsWTRMSXlsOVUyREhfa1ZzaG43bFdMUnpuMERQdWhhWU93Zlk5dnRLYzNsZWdMRHpxRWtkSkFHcDJFNkxlM2hKcEloVER2WUE1cGVtNk1aM2Jod1JSalRyTHNHRS05TTc3Q2tjS0lRN1d3WTZMTzRFbGszOVNJcllFWDRtTEZVOU1QWC0yS3Iycy0zNmZadWFndUxBTTlMZ0tDUV9xY001LVJfdUx2UWZMN05wZTltOC1MZHpWNQ?oc=5",
+            "article_count": 1,
+            "keyword": "wins mvp",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Lakers GM Rob Pelinka breaks silence on LeBron James' future, shifts all the pressure to him - Yahoo Sports",
+            "source": "Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG1xdkJxelpZN1ZIM21IVUhBTUNKM05qeEN3S180SnNOWW9OYU82dGQ2akI4Sm9GbmIxc0VLcGlSemhfVWVvaW5xMUNYVW4wMVk1dlEtTGVGM04tZ3BCQUJ4TXFWNXVLN1pzWlZ2Z3N2djZaT2ItdXJfeXBMdVloRUJR?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Lakers G League Coach Opens Up About LeBron James Practice Appearance - Sports Illustrated",
+            "source": "Sports Illustrated",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3V4ZzBOSXpfcUZBakhoV1N2SllKTm1OOEl0dUVhY2RFUGZuUDBqc0tKcDlHZFRfU1hzbmNDUDVScWNrR0JfSWQwQmVXQ2hacHBaajRoT1JwY1NzRmhYbjMyWHRkdjRMdkxJbjNKREJnZE1leTdmeDZxQU4tT20zdUFiU1dHMzlobV9Cc0U1aC1ZLU5jaUtsLXlzZTRlTXhvUUVoMURvSFZsQWRoTUE?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Lakers News: LeBron James Opens Up About End Of Double-Digit Scoring Streak - Lakers Nation",
+            "source": "Lakers Nation",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0pBb1VBcG1scHFtLUFkNU1ZeF9XN182X2lVaVJmSFhGaWgtWDhSU3hkNUh0TTdSdWpETTRpTFp6SzJKUlNUQWMzOW1TU0dYbGh4clA5cGVxRkZyU2JQeHE2WXBTdGJ3SUUyZ05WRXgxWDJieVJUZ1NGX3BQTjQ4YWJqRWJTajJjdHRKdzlNaHJzNlNRdTFPdWdCLW1kRjNrMGc?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "LeBron James Breaks Silence on All-Star Snub, Leaves LA Weekend Plans Up in the Air - Yahoo Sports",
+            "source": "Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2VFcDZrbXI0SERVeFFpeFdOQmN6NUdKS0lZd0lrQW5xMW5wX0VHWGxLSV9RaHE1cjNoaWg5cldVTnRVZ2Y3ZWcwZEdaMjd0UFJyYTFMRy1NdHRCakZCQlBjalpGcHhOb3llQkNiZ3BKRlc1YThjMjRBOHhrVWZ6T2JQVERJWkhM?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
         "total": -3,
         "events": [
           {
@@ -314,10 +2443,554 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Inside Oprah Winfrey's Tortured Childhood Homes—and Rise to Real Estate Stardom—as She Opens Up About Traumatic Rift With Her Mom - Realtor.com",
+            "source": "Realtor.com",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlZGNjNpNXFoaS1lclF6bVBHSDhXcDRweENoVGtxSEVpTzNTbEY3clUtQ2RlZTNKZ05Wb2VPLVUybnJ6VW5scmRSSlFfbGVpeGJaX3haSmVNWGlzTlVobkhFUHItOWctMkNabi1VQWFiME1walpZNTNqZ0pVcXQxRll3LUNpT2xaRVR4QXUtVk83eHlSakUw?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Oprah Winfrey opens up about her menopause experience in new special ‘The Menopause Revolution’ - TheGrio",
+            "source": "TheGrio",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXBYWUNwS0FPc1pxUWMyZGVyTjZaZDNRd25nZGlWRGRPNlQwUTJQNFpqWExhOGhzLWJlbkZ0RHZ0eWlFME9yM0JQcVIxeUdBcTFsVEVVVHNhd1ZZTnNaeXQxRU5Tem54cHE1dHcyQ3pLbU9oaWRpNTJ4MXBXNmJ2UXp2S1E1OVpMWFVsdHBxV0ZYX3pXZUtfS2dLak9KNFJwaUdpZTJyV1VfaC1EbHhaamtUa3B3anQwRUZiUnpKTmU5OHM?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 11,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Oprah Winfrey opens up about her menopause struggles: “I felt like I was going to die” - The Times of India",
+            "source": "The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSUhCYVJySUNYSC1KRlZBWU1obzRDOEpJdGxxcng3aHc5UGIwc2lIdFIwai1jSjhSaHp3UjJkRzJHb0NwUXRabXM2WkdlVWo5V3M1NkJBbzhXY0RmVzc2c3ZqQ2RrTjdsdGVqN0pVcUtBclpqWnQ0RDJVblhsTnV2NjA2bFliaXZ1Z0VVOFJkSDJvc3k4UXIwM2NnNEc1Wk5kdzhmMzRkajhhS2xUcGozVkY5QTYwV2t4a0ZMT3ZzWjVoUW93ZlQ1MTFHandJdDdTY1JmTjdVUC11UDJOalREb2RXZ2xrclNEY0VvUkluTlVLX3Z4VGRHdUk0YXVFTnJsbUY4SWZycGpvQ2YteTJj0gGUAkFVX3lxTE1INFc2b284VVRNTDJWQzJXeF9kRVNoN3FhdVd5c3NTUG5MSkNpNFJpRFB3aEJsWWROckhBNWZRSzIxR1g0QWhwUXpkNm1kODZnY1JxMFkzNkZjcDBnSE45Uy1iN1FlaklVSFVwQXBRdnZSNExmZDVJVHAxNEZuQ3Fxa050SldJam9tMVl2VjlZLUdBWHB4Y1k2MjFpcnJ4eVU2SWVqenUwQTRuUlZ5SjQzZW1WY1BCZF9sNEttMDByOXMtaFJOVWVzNE9UZ2J5dFlCX1ZHWGtINVlfZzIzeGJCTW1UczJReUJYWHJWT3pUcXFLSnRGUmpXdnktTUhla2w1T2dJOTVadGg1aVRpU0QzTHNOcQ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          },
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Oprah Winfrey tops Forbes list as richest talk-show host, surpasses Tom Cruise - India Today",
+            "source": "India Today",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGNLdkpHV3NYa3pxQ2MwMkRjWjNkQWQ3dmxnbWwzQVByUy1ucTVVd180TEM1TEVtQjViS1duWHBXRG96bll2ckZzV2EwU1p0anpoN25MaFZjcGFNUlNxZDJNa2RqQ3JWTEJRY2JlYmFmN2dVclBSRUxHdklzT3hPQXZCazNfMXFYRjgzNVVSOXV5enZjQUwzLUdaajFlVU43THVVOXRwcTdwT19TRmdQTmZEYWp5TVByVWNqWEE1ZDBFOEdocEI2SWZqeklDbjF2eEE5dTZjWGgtY1dTZU04c3NvTDfSAeoBQVVfeXFMT1p5aFJZTkpYQWdKejM4d1lQNVU3RVNOaVZBX2JFREktOEgwekwtSWFQWi1IeXcwa2Joa2lpRnhTOUFYbHFSVE1USlRUcWVwLTVLNlZtTHdoMVlWSDZBZUp5Mm1sdWhUWE5VcnFXU285ZktqamstM19IeG1hMGRPRnlxRUZieXZWNV9qUHlkQndVejk4a19jMFRlMnZvWTBaMG1uUGVrWU9Uc1o2aTVraUFBS2dWaW5nSWJydzJ5OHpkN0ZCX2pfa3FPRW1ON2tucVN0TENRaF9XZjZud3p2Q2IyVU42NUx0Z29B?oc=5",
+            "article_count": 1,
+            "keyword": "tops forbes",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 1,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Woman who won Volkswagen Beetle on Oprah Show opens up about the experience - supercarblondie.com",
+            "source": "supercarblondie.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1V1U4Qzh1QXBJb3laajI2QkhiU2duZE5CU1Jna01wZWhkSUZaelJWTFY3b2FIQjMxc3dSeDJhbmsxVHNVcC1YVzM4Wk5WMDMwNS1xbWRDOVl3M0xSS3FIMnVkUmh2MDJtM3l2RnVHYlZxbmRmc1E?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          },
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "Trump Is Demanding A \"Major Investigation\" Into Oprah, Beyoncé, And Other Huge Stars In Another Middle-Of-The-Night Meltdown - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmFSOE11VnpvelZ1MEFDUUV4OVhhN3BPOE9yUnJNNlRrNnZKd2N0SFR0T1c4SFh1akNOamFCWnUyRy0xNkQxSmdPNnM5cmZGQTkxQUpuQ3B4TDZMR3oyRjllcWV1NURIMzE2bzNYRGZ3Ymo2QVhrMUxWdUtIQ1VMWUNsa3dFdlVFQ3dR?oc=5",
+            "article_count": 1,
+            "keyword": "meltdown",
+            "flagged": false
+          },
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Met Gala 2005: See Jessica Simpson, Tom Brady and More Celebrities on the Red Carpet - E! News",
+            "source": "E! News",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0pBZEJuRWJUOVBRbndOZ25nSkM4WHBJWlhDQktSSFAzVlBRMFN1cFZwb1lSMU96WUgwbFNYVnJ3SE9hdGVpTkdMNmtPNnlrSnVXLThXT3VXUXF1R0hfZjNvVU1DODJaMzhTSzBmU2ZxX1lvY1h0czdYVk1BckNWUHJ2VUhzS2l6S3VCWTMyQm8?oc=5",
+            "article_count": 2,
+            "keyword": "met gala",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "'A Million Little Pieces' Author James Frey Opens Up About Oprah Winfrey Controversy: ‘Brutal Hypocrisy’ - People.com",
+            "source": "People.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JV0VpRHZaWUJ5QUp4MTdNdW0wSEt2M1NrUEhmVEI2cnBLMGx0OHhfWG9WNkIycUlqOTMxbTNhTWlhTEtVNzB2VkRJTV9BUF9RNjduS2R4WXJ4OXliZUFKYnJIWWVGQkFNc2s2VmE5UHE3WEYydkdHdQ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -8,
+        "events": [
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "Oprah’s Shocking Behavior at Gayle King’s Broadway Debut - Yahoo News New Zealand",
+            "source": "Yahoo News New Zealand",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWNsRG9VMVBUQ0Nta2dZRTRhUVFHYUo3eVBPU1lqaXdIN2NHYU53UDF6RlhTY3YtXzJpcWhJUWlINUVpRHIxY1Nkd1BNYy1DYTVTU0Nmb2NOemJoM3VLWDNaWkpxWnZ2OXZVM0dLZGRQczlkYUM5WklMVzFQLUF4NQ?oc=5",
+            "article_count": 1,
+            "keyword": "shocking behavior",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": 0,
+        "events": [
+          {
+            "type": "fired_cut",
+            "points": -3,
+            "note": "Oprah Winfrey Was Fired as a TV News Reporter and It Led to Her Iconic Talk Show - People.com",
+            "source": "People.com",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkpma240aHY0NTk0c3ZvNWJPbk1LaE9vZDJlNWxncVFUVjZ0MTNPVTBLWEtjaWFFX0paOE83cjdQT3M0N0tUc1lJaHFPOG9PTmE2NDNEQkZyMlJkaWl5SDlOWHl4eURnc0FUUFN4N2dDenlTSkcyZlBEellHYVNYZ3FPQ2NrakxJTkVDV0tyUl8wNENUVFR5WUFzWTFtSVpQVHpsaDdZQXNUMTJ2Sl9yVW9vMWlTdG51aW83QV9pVDN1S1gzUFZObnVadXZGck5BWnJacFQ4eHc4Tzdy?oc=5",
+            "article_count": 1,
+            "keyword": "was fired",
+            "flagged": false
+          },
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Demi Moore opens up about Bruce Willis' dementia battle - USA Today",
+            "source": "USA Today",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTW1QRm9CdV9RWURRbkRxVTRRQjNTd203U1ZudDVvR2s4MFF2RlpNRHdzRExpZGtzbFE2N0xVeHlVaDluQVpJa1ZrU3g5d3l3c0xHb05NeGlZeHZJYjlBYW1UOW1WNXNTdHdOUGhOUXpBM3B3d29LT3lBWTg5NXprRVliSnVVUlZxdmozTy1BYkNYOU1MRThHNVJIYW9CVm5KRlV1azExbUpyS25RSlFkQW1FaUNTZw?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Oprah Winfrey opens up about embracing her knee surgery scars: ‘I’m proud of what they represent’ - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWhOTHN3cXJoUGxfc05KbWJxN1RfVUdZZ2YydlJkRGVmUHBTS3djODVaUnYzUGViclhyM0hEcFk2ZVNLZGtPSnkwbWVkVVNnUFlmODBZdTk1VUhFTW8xdWZiOVo1T2o2QU91cnQ3SjNmb2VnaVpLazN1bFpPelJMa1NsREQ0VElWejRBN2xsS2J3WTNVcXlfcUxzNTBRV0pTa1dJbGpn?oc=5",
+            "article_count": 3,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Oprah Producer Breaks Silence on Meghan Markle Interview - Newsweek",
+            "source": "Newsweek",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJpZ0U4ZmI3MUdLOXZ5c1I0ZXZob2NWY2VkbFlkdkk3Ri1XRFBHQTRZRE8zYjRzTUh5RTRFWmlMME5PLWRqV0w2SG00Z2dUU3REbzV5LUdkeFU1c0FOS1MyRVdBWXFaN0xUVDREUkp2TkVfS19heTRNQXdnWEJFSnkxWFVxQzBxNnVSZElScG1iU3NvV3N4YTh5eXBlSlVWYVI4dFJJdFBWZVdWS3c?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 9,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Oprah Winfrey 2013 Harvard Commencement Speech - Rev",
+            "source": "Rev",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3MyQmRiTnhBaUlYOEVWSVJ5cnkwbWE2ak42OVcxTGhaMkpVTExTNE5PR3hEeHFvazRRUmVwd2M4WURoWG91eVFGSzdhRE1zcVF0ZGJxVF9sb0FKMGhMQWJxeG9mQUV0UjQ1QUFZenNMQlg4aTNxbWF3Sml1U3BvYjMtcVY?oc=5",
+            "article_count": 1,
+            "keyword": "commencement speech",
+            "flagged": false
+          },
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Oprah Opens Up About Obesity, GLP-1s and Her Healthy New Life: 'I've Never Felt Stronger' (Exclusive) - People.com",
+            "source": "People.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3JpRGk2VTlYMnl3bGgycEMyQ3lnUXVPUHVYNUd6TjkyZXpGQ2E0bk1hb0NhbE1kWTdnNm5KejI1UTF1ZTMxdGdza0dHY3QtdFo1eUlzNkJiYUVmaUdpemtSQWUxSlhtUUh6cDRYSWlkaFQ4MnIxT01HcVA3MTE4ZDRQeXpNby1UZ3huUTlldElMX2Fq?oc=5",
+            "article_count": 3,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": 9,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Oprah Winfrey 2013 Harvard Commencement Speech - Rev",
+            "source": "Rev",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3MyQmRiTnhBaUlYOEVWSVJ5cnkwbWE2ak42OVcxTGhaMkpVTExTNE5PR3hEeHFvazRRUmVwd2M4WURoWG91eVFGSzdhRE1zcVF0ZGJxVF9sb0FKMGhMQWJxeG9mQUV0UjQ1QUFZenNMQlg4aTNxbWF3Sml1U3BvYjMtcVY?oc=5",
+            "article_count": 1,
+            "keyword": "commencement speech",
+            "flagged": false
+          },
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "| Oprah Winfrey opens up about health, weight - CBS",
+            "source": "CBS",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IUnF1NlBWak5lUmR4ekJvb01LYURrVVRWRWkwTVdZWHFLRWJzZ0UzUUVmbUlCc01KNzlFbHVDS3p4bUJfMWw0UWRJV1kwS2lJWUh2Tlhyd2lCU0xLeUR1X21rVVNNZlZIcjJ4Zkx4QVVCbmM?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Kristin Cabot Opens Up About Coldplay Kiss Cam Night to Oprah Winfrey - TMZ",
+            "source": "TMZ",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejZPdmRuZVZEUHZ6XzVSa2paVkFhYUlXS2J3blFzMzl5eGhxUDhmYUw1c3lGZXVWWXJabUw2SjlVd3JmLVh0ektLaU1OODdhUk8yTTRDbzZDV29PdlNwUlhzRmx6VUJIb3VKRUdqM2dGRXRfbnFUNXJ4QWs0VENQR0hfS0xJU1E?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": 23,
+        "events": [
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "Oprah To Receive Cannes LionHeart Award At This Creative Festival 04/22/2026 - MediaPost",
+            "source": "MediaPost",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVBLV0I3NmZlamk2eTlIdy05WGhhVDh1ZllXcVBxVzFBd1RjS0N5U0FmRWxYRVpYSlVxb3FJUDI2MS1Gd3FMNXNzTGtNcWFkOUFSLXFkRGlsVGlTaTAtWVpQN0o0SWM4WnZlVzc0Y3BNYUtSRHZXWk03TDN0NWVoTmJHZ2o3el8tV1lyTmJGSEU4d1M5NWVhczc1cnd5QmVHQ1BzY0dBdU9TcGQyRXc?oc=5",
+            "article_count": 2,
+            "keyword": "to receive cannes",
+            "flagged": false
+          },
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Amazon And Harpo Sign Multi-Year Deal To Expand Oprah Podcast And Unlock Franchise Library Across Platforms - Pulse 2.0",
+            "source": "Pulse 2.0",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNG91ck54all6WnFoa0hVM1dQT2piM2VweHFxdlNNUmZQdHV6R2pIWVpFd0hJY1Q0UU9XZ05ZendWUXlGQmxFXzFLWTJzODd1YUVxa1JFajNwejJ3MlNQMktNR24zeS1UaG9wNUdnZEtBeThieEJ6Qks4SHRNRndpZWUtY25WMGFFQUxrZHpEVVRHYk1IeTdnSHdBbzdYNXZsLXlDODgtTzhxOVhuYVduN0VEb2lpOTV5WE9DbS1MaU1jU2M4NGfSAcsBQVVfeXFMT29JR3BjVU9QR1VvdmprTWxtS2pTUVk1S3BvQVo3MGF6TmpqVXhBZ1ozc3RaTzBkYXNyMEROV3d2YlhKTkp2eVRBMlM2OGVmLURIVjVsODNYS3IyUEtaX0ZTV0tOVThWOEF5SVFfUEl0LUZVekpZc3kyWlhNWDRZbXNYbTN4NHVJem1fNVRiOVVhWUxTM1RwbWV5M2JmeEN5eWlxV1NHOUdVY00tbWZTSkY5cXJYUmRPQjFwQVVGRHkzM2lDTG9Ga1VkY1E?oc=5",
+            "article_count": 2,
+            "keyword": "multi-year deal",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
       }
     },
     "Greg Abbott": {
       "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "No scoreable events found",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": 0,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 0,
+            "note": "State Sen. Angela Paxton files for divorce from Texas Attorney General Ken Paxton - Houston Public Media",
+            "source": "Houston Public Media",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZVdCUEx0ZEpKeTdPckZXMGdyQUU4OXc2OVAtbXZ5WXh1eGRucGlvRlgtWDd0WGZtTDI2ZS1Jbi1hMHNKbzBIWTBxTzdzUVp1WXY4QWxzVG01Y2txdEl2dUhqT0VFQWthNTF3SzJIVHgwMGlqYXlySEZTeENuekFORXhXa0hmbVhVa2lURE5DUzVVVnBiTnpBQm85NmFObkVCam5mc1BlT25tZEhjX0J6WUxHMkdTUDhNSE53SVNnazE4Z2xMYjlaNmt6ajN5bEtRM2x4dVpyd0Roa1BuYlhrOHpjMWdRWWQ5TTltQm1n0gH2AUFVX3lxTFBPTDdDbWp2UUxrSVQySTNFWW45UkJOdkRXQVN4R2steGptaUx6U2NGcUdUdE9pcFNaRDZnV2xaeUhRcTJ2NXFFclc2V0Nya0huNDRDaWROWmtUWE5zVnoyM2o4OTROWUxSOEpRa0JXSllSc25Bb1FtbVdPYWtDRXVINEJHcElyLVhUNVdzTTRMTGpCZkFBczVSaGw4Z0dUQUpLU2hyU1RjZFpabm1pQmNjT09uZkYtcVptcHRwcHVteDJxeTcyb0ZmUk8zejlQX3A0UzlTTl8zU3NUbm9EeU0wT3F3Y29sSldWWF9mSlNTVU56ajE3Zw?oc=5",
+            "article_count": 1,
+            "keyword": "files for divorce",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "fired_cut",
+            "points": -3,
+            "note": "UT Austin professor dismissed from administrative duties for 'ideological differences' - KUT",
+            "source": "KUT",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjUzNi04ZGIzVVEtbE1TMDBZd0dLT29DN3VwdG9ubDVLczIxM1I1a0lFX2NXZWFWSmQ2SnNGbFB0aTJaQUg1VXJSRXVvcVhHZENzTWQza3pHcFlyQko5dXI1NjVxWVU2dUlOaVo4RU9MOG9weWM0VDJhSEZzM0tlLVVMQ2FBWUhrVkZGd2w4aTFIci1CVHNDZGRR?oc=5",
+            "article_count": 1,
+            "keyword": "dismissed from",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": 0,
+        "events": [
+          {
+            "type": "misconduct",
+            "points": 0,
+            "note": "Gov. Abbott says Texas will stop observing César Chávez Day amid abuse allegations - Houston Public Media",
+            "source": "Houston Public Media",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOVpPZnhZRFJGalVLX25OWGN0MXZjY24yZTMwdDZoNXRGNVRWNXM1cEN3dnh0QnEzV19JUjNtaktPUTVCaXoyTVlFQkZOa0dCQVk0aVJOSTFLY2R1MExTUHEtMmpsVldZN3BMRXJlX0kzMmdTVm9aYWotanJTZ3hSbGZMRUt5WUxQQkVtRU9RNTdPRXFxQTBwdHN4M3M2UjRmaG1feEk2WHJtVFZtOWM1YXVlc2JPLW9CU0lFSNIBxAFBVV95cUxONDlna0xLMllLeDY4X0E1OS1mMEJMbjl0ejNTLVZzWHRJUFI4dXFHOGV1S294LXlaOWhmUHVidmtWNk4yc3FEU1A3eGVtb3BIbHlFOTlfa2lBU3Q3TUc3bGdHc0duTlp6MmpESzExMUplSmVPQlFLVjdGdm1uRmZqRzJSY2FGTjZYNDY0S2p0eXF6cHRPdEgtRG5jaklIZmItVnpud3BvckYwc1d3UUVJalpkdXdRQWVmdTN4aXlERVd1TFJw?oc=5",
+            "article_count": 1,
+            "keyword": "abuse allegations",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
         "total": -3,
         "events": [
           {
@@ -344,6 +3017,235 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 0,
+        "events": [
+          {
+            "type": "arrested",
+            "points": 0,
+            "note": "20-year-old arrested for carrying loaded gun at high school in North Charleston: Affidavit - WCIV",
+            "source": "WCIV",
+            "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdmpuZWZKQ2JsZVhPNHBjb3NLVnc4YXd5LWQ5aDdXN05aREdVLUJWV1h2ZFpwWTBHU2dFc1hVeUJZMmxva2cxWlRjZTlHQnZ3T21lTnM1Q1E4WE5lOUNCczhHWkV3MVU5aFZnTUQzZy0tSTRvaTFIMTVqNTB3dC02Nnl6SlVfa1Bub3NZYUZ6ZXNiODhZOFMydmVBTW12Uy1RTjcybExvZTdQTHdscFgzSmtlbUNNWEhUaHdHWkVWakYyZG9fUXlGenphUmU1NlQ1MDhteDRuOE1XXzJjSWw5TEo1Y3RoT3gycU84U2FiNEV4NDRXckFORGlqcnlEcmNLMXg4TklEMVN2RVYwWkNDUTd3eFZfUXBGQmpTMWJhQ2NBSGxWWjVjbWVESmF0TEVhX3N0ejBvV3hGNmk2NkZfT1BYc2RtTW80bE52aFRsQktTRkt1bW9UNnREb3p1dHMyWm1hQQ?oc=5",
+            "article_count": 1,
+            "keyword": "arrested for",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Judge Mathis Opens up About Three-Week Split With Wife of 40 Years - The Root",
+            "source": "The Root",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVG9iVUFsR3BJSkk4NGg4YWFRc0puaFU3c01FQS11MWw0U3hlX0tneXRIY2g2VzF4YzZxMzA2VHYzVWpzOWhoVmRublcwLTlEMjBmUXRWNUsydFBQU0czM1ZYQ2dmczZiWVR0N0YzUktvTTlmTzJucHMzbnFuck1CYUFBdHZRRUJPS20zaGlCcndRYWM?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 0,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 0,
+            "note": "The Rev. Jesse Jackson has died at age 84. How Michigan helped him make history - The Detroit News",
+            "source": "The Detroit News",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUR0Y3NXR2Y3eHJ1RkJUbkFMODRya2pWZmJpa2NnZkE0WE9tcjZCdWlUaldydHQtWlg0QnRrSkFLRlRKdHhJVWFsUV9yc0xjQTN6bGx1YjhkSWdKcTA3U2tVRGl1QVc3WE5IeVQzWVRfdUszb1IwamhwLUFLbWtQNnBPRTg4Rzk2dHRWVDY4V2xRemd4OTkxeFhOR01UYjNXN3lMV3l4Z1lqZ3RKX1U5MlJ4TllpUGc4SXozQzdLMXVDelRL?oc=5",
+            "article_count": 1,
+            "keyword": "has died",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": 0,
+        "events": [
+          {
+            "type": "life_event",
+            "points": 0,
+            "note": "Judge Mathis’ Wife, Linda Mathis, Files for Divorce Dismissal - WBLS",
+            "source": "WBLS",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTdzeDg5X0RLcEs4MEFUckNXaE9zbVRrQk00QjNHMGlWbGpneWYxYVNQUWExWnFQRC1UUGppN1h4VTA0bzBPZUtTa0VYRWhNNmUta28tY3NtVzB6cThULUZjeFlXMHp1bTRHVHhlRXREeldwZUJ5RElveDl6bzh2UlRSajg0MnZiNlBocFFB?oc=5",
+            "article_count": 1,
+            "keyword": "files for divorce",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
       }
     },
     "Greg Paul": {
@@ -354,6 +3256,235 @@
             "type": "quiet_tax",
             "points": -3,
             "note": "No scoreable events found",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "“It Was No Longer About What I Wanted”: Nina Agdal Opens Up About Delivery as Logan Paul Showers Love - EssentiallySports",
+            "source": "EssentiallySports",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSklnb3NTRV9adTI5YzU0am9wV0pMSElKTEo3U2hBVGtOX0x1U3pobTU1ZnR6SkkwOEpleDdsVEFXWTFLLVhQaU9PS3o2STB1NlVmcGxQdGlzaU9qR29jRVBzbG9kcE1fY1pJcjVBQldLZU9tVnVvWVpVdTl1NVlrNlNoTEZLNUFYVUFMMjZNdG5Rc0pGajZ3YklxM1lPWUYzZENabllQMEFZbkcxdXpzcldkV1ptckNJTGdYV00xUnQ2ZlpqU2VaY2tfcEdrZ2tNdEl1M1Q1c0xlSmRxZmc?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -8,
+        "events": [
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "Woodstock Provincial Court: Court outburst delays hearing - River Valley Sun",
+            "source": "River Valley Sun",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWxOblpLMXYzc1AtS0FoWV94S2RpNThPWDRxS2EzOG02WlEteU1pWnVXRHRLaU9vUE01M2hOeFgtYi1fVnZ6RXQyRV9RODI0Y3YxdEUza3E3YjJtVDYwSG1MbVpBTEtLQjZtcXQwWllvZ3BGZnlhRFFydk5MeHVIQzVhYlppWTEyalZV?oc=5",
+            "article_count": 1,
+            "keyword": "outburst",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Logan and Jake Paul’s mother opens up about alleged abusive relationship with their father - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlZoaEdJNUZXejNmc3E2a0lMdVNTYzJhWmxEYXpSQkZrV1JrZHduQ2FFbjBXd0ZReGllQWw0Q1ZWZXZFcjZKRm9sS1NYOHIxSzJfb1ViZ2JSQTN3cFczNE5JaUd6U3k0NUhpYU92LURxRTNTY2VJNUozLXRoZ1FhU1JtaDFvY0tWS2xmOWpBYVFUaEJzRDBnQWtnaURRWW8?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": 0,
+        "events": [
+          {
+            "type": "arrested",
+            "points": 0,
+            "note": "Woodstock Provincial Court: Change of court for woman charged with attempted murder - River Valley Sun",
+            "source": "River Valley Sun",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTJ1Zy05eHgxaUgwcHl0N21JbDhTZUVCV2Jrdlg2cThicHZWZ25RdUdPY293T2pfMXlWYmloZU5NeFZvVVZBNFJVTjdsZXp6UjlZdE9pWjNscEg0QURELTMzaTRIeWhCdUxxbmtTR29DSjN6c1lTbFRQUzk4WjBOdHVGQzJ0em05elh5X1hRYXJ0bGRPUEdoQzBmdmp6M3k4dGZrZ2gybjY5T1RpTXc?oc=5",
+            "article_count": 1,
+            "keyword": "charged with",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
             "headline": "",
             "source": "",
             "flagged": false
@@ -378,7 +3509,7 @@
           {
             "type": "major_appearance",
             "points": 6,
-            "note": "GOP Lawmakers Call for Investigation into Bad BunnyΓÇÖs Super Bowl Halftime Show Over ΓÇÿDecencyΓÇÖ - TicketNews",
+            "note": "GOP Lawmakers Call for Investigation into Bad Bunny’s Super Bowl Halftime Show Over ‘Decency’ - TicketNews",
             "source": "TicketNews",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjRaSmJLdHpzR2ZGbWVwYUxFMTR2S0tBZGR0ZVZINE5CUEJFNUV5NUlWYVdjU1hleVFjOW5fSGJBaGFEcG9LWnUtZ0lHYndfblBfVTFMZzBrQXdlbU4tYlBaNUh2Z2k1X2VONWFvLXdONXF3U1E2ZjNtUG5ZNTRUbGUteWlDQzg3OWpONklCLUIwN2dJZkR2RVJreERkUU4xYnh0bm5mTHM1VWd2anpPT0E0aFU5UUUxb0dnUllVR0NZZ2Y3?oc=5",
             "article_count": 1,
@@ -386,10 +3517,564 @@
             "flagged": false
           }
         ]
+      },
+      "2025-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "SNL 50 : Bad Bunny Makes Surprising Confession About His Saturday Night Live Milestone - E! News",
+            "source": "E! News",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRjU21BMkFGMlhYN1R3UGhHMDYySEh2d05rSXpCaFJMdFd0bzVobkdZWFlUd2tKZEl6MDM0bWM0dWlScTFVOE9CWGx2dWJ0bG51QlZhenFFSjFSbjRxYlhyTmlVUXNUX3hlemtBR09lRHhFUTRPWmRpbW1jYXFXNnp0RXg0MzF3SzN6dDhWV2lSUExaQXNZ?oc=5",
+            "article_count": 1,
+            "keyword": "saturday night live",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Bad Bunny Announced as Final Musical Guest for Saturday Night Live Season 50 - Pitchfork",
+            "source": "Pitchfork",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdERvSGtPOThDWVpwQUFib1B5QVhjbW1DZ0dYRzltOHJaLTFFNmpKUjctSURyZlp2anowaU1ROUxjbVVXRXpYaFhqS1lsOXk2Tzh5cWJHbWstSldaTG9wQ1JJU1gwbk9YVUE5Vjhnd24wSm03TlMzNnJOVkFnODBxS0lrdFk0QXpnMldrR21kZlo5MENnTUFaOG0tMUhLTDY2blg0YnNmVQ?oc=5",
+            "article_count": 1,
+            "keyword": "saturday night live",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Bad Bunny Performs “Nuevayol” and “Perfumito Nuevo” on Saturday Night Live : Watch - Pitchfork",
+            "source": "Pitchfork",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFN1UDB6c0NnVVdlUklkRDhtMVhEQlp1aFdTOUVneTAyTW9TZm4zUnF0dTZLd1MxSTVxVnV0a3B4dVdBc3BkWGtkY21URmVvanlTSUpqUnJEZm5jN0YxZmxOR3dIMmg3TzlyYm5VODJZeUpucE40czd4dkI1YzZYQXAxZTBkOTJTUnN0bGRSWWhwT21mYVF5YVQ0RXg1UHltUGl3ZzVQcw?oc=5",
+            "article_count": 2,
+            "keyword": "saturday night live",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -12,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Bad Bunny Opens Up About Transition to Acting on Sunday TODAY - TODAY.com",
+            "source": "TODAY.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0dveXhWX3R1eC1fVkhVaDktY2psYnozUTExMEg5U24yVG5DbHRubXVPbFpkY2hXWnZac0ROQ0huSUtYb2lUTU1SR0RpVzgyd3dIbS1UbXNJemM1MUM4N1VsZnM5bmZQNEk1Y29aYVRLN3NDQU5WUkM2QkJXSlJFRTdrcWdIRTM3Q1V6WDBBQUpieFVyRWU0Uk9CbHE3WHRneE5IMQ?oc=5",
+            "article_count": 1,
+            "keyword": "opens up about",
+            "flagged": false
+          },
+          {
+            "type": "arrested",
+            "points": -15,
+            "note": "Suspect charged with murder of NYC man who was visiting Puerto Rico for Bad Bunny concert: Officials - ABC News - Breaking News, Latest News and Videos",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVg4eG5BQTl4TDJDUFBlRzJjZTVXUFZoYW1jS2NzT2s5SHl3OFRsMGE5VEI2dGVSMkVMcVFSMU1RWlk0STVUVmxsR0FqZll5YVN1RXVmeXlXb05LaDlNTkNTMzZTRDZQQl96YXFTa0MxZXR0SlZNcjRmcm5UMmR0Ui1MaHB5SkN3ZWlNTFB2U1NLanVodlFhRXMzeWpnZGRlMFJQM2dZUdIBrAFBVV95cUxPYUZkRmh5OXVLbGpWWkhvTnNTNVZnS1N2YXNiUFIyZ3RpSVdUWk5mbzdZb0ptM1EybjJvb2pGNENpQ1hsaXBYdW9iR2I3UjlYNVVueXBMbEdjQXJidXRYTTdONjhaZjhrVi1BUzVCdmJ2QktKTkk3b0NaRFN6N004aWJjYTVhdWJFMkxrSEpVeXJoU09jMWtPNm9peHZJY0x2aUc2ekpKWEFvOTVt?oc=5",
+            "article_count": 1,
+            "keyword": "charged with",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -2,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show - NPR",
+            "source": "NPR",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVVVQbFd0NHhBN09HMW5VNFRwczU2LUVIa01LdE5XNkhVajV3bjIyQjhXTkYtOU1CeUZTc0pybFJkYWVXbmRncVd1a1NHTVVlUlJPTl96eVBTRHl5WVV1MEFldUQ2R1dsTlY1bmpFemFIYWNycEJXZWQtRjdXTnM4ZVJzQUtVS3d3R1B4Q2k2c2V6S2EtLWJwZ0E3NVpoem4tekYzQU4yOTBJeFp5Qnl6ZTdfZUVja2xtRWc?oc=5",
+            "article_count": 16,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          },
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "MAGA's Bad Bunny meltdown proves he was the right choice for Super Bowl 2026 | Opinion - USA Today",
+            "source": "USA Today",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeDFjXzMwdkdRY0x5eEhxSkVndGhSSm41azhuSnNnbWxTZkFRUnZpYnJPeXp6Q195aDlURElGRHA4YUZzOHFHQmxVelhtLVZmSk5PN2pmMHRmckVDR0pyaVRod2RjZ09jeF9aWWhlMTNzSHNvRVMycEdJenlvU2dXNEZSeW5iLVBiZS1vdUNPVlJxRUR3aEIyZnlYOHQyZlhIOTNncmRhM05DUlk?oc=5",
+            "article_count": 1,
+            "keyword": "meltdown",
+            "flagged": false
+          },
+          {
+            "type": "career_milestone",
+            "points": 0,
+            "note": "Bad Bunny's Residency Finale Breaks Record for Most-Watched Amazon Music Livestream - rollingstone.com",
+            "source": "rollingstone.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHZDdFpLMkZXT2tIc25VbXhvQzViZlZOckl2UFIwaG9LajVnd3hKcXhWaWtIQkVsMFRqV1BleFBIN1ZlTm5abU1LSkJEaXVCaWFFcjAtOE1UbF9aM2U1dU93T0FSNkotZS1MSG1ZRFJvRkdRMUlqbW01THczRHNNSUwzZ1VrdkEtWTVQQTIzNll4ZE1SX3lnQW5Bb2F6ZTdXU3hQWkRlOUxuTVVQVXRzenFlYmdnZw?oc=5",
+            "article_count": 1,
+            "keyword": "breaks record",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "NFL says Bad Bunny’s Super Bowl Halftime Show will ‘unite’ fans, despite MAGA outrage - San Francisco Chronicle",
+            "source": "San Francisco Chronicle",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0JnU0VYY0M1OXlTV1FXbXlKcENQM3R5S0U1ZUxmS0Z1TGtydERacUV3Y1IxSHB3MkhBNDVyVFBpclg5ZzlYQm1DN21EQUV3cGdIcHBURmJhcENBOXBxak9LVkxqUVl6VkUtSkVYVmdBNjNDZWlvWWRtTGhYOUxycGJfdzl5eUhtV21YYUxaWFhqNDBvNXlha19EbGY0X283TnItQQ?oc=5",
+            "article_count": 13,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Dallas Cowboys co-owner defends Bad Bunny Super Bowl halftime show - The New York Times",
+            "source": "The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT1dMbEtpMDRRRF94WjRSdGM4VG9zMEdYbWdGLXlmVHJEQTNILTI4aHB1RTh6NjlfcHRoNnlFNVdpQU1uWTUtWGZYTWRtbWVvRk9QQ2VLVEh0cVl2Z2NSX1lRUDhVY2Nfc2s2VG5qcjZVYm9ScHk2eWsxT2Rmd2lSZ3d2eVpaUlJGZzhaZ0ZuTVVPU1RhTGUyQWVYcVJhcF9ERzVyTm56a1RZNFhmbmpWUzZEWnFoajND?oc=5",
+            "article_count": 7,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "46 Hours In Mexico City For Bad Bunny's Sold-Out Tour Stop - elitedaily.com",
+            "source": "elitedaily.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSThGUDl6Z1VJTmNRdTZhbTNNSG9MWmF0Qy1GMlRZMk9mWnlCWDNsdXhSbmZYRTUtdjI4ODBkcVNickRhRTlTcno0cEY1Nm00RXE2ZTI0Y3Npano4R3lLYjZGbXR4LUVHaW8wUkxscVpLTnlXQ2xEVXROcHVZMVZFS0EtX041Sy1HMmQzdg?oc=5",
+            "article_count": 1,
+            "keyword": "sold-out tour",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": 21,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Why the NFL stood by Bad Bunny for the Super Bowl halftime show - ESPN",
+            "source": "ESPN",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHpkZnhFQmtoalFYRDRnUUIwTEhKZ0JQaWJIZ0NMNEdyTjIyR2JVUHlMcVVSWVF4VU50cktGZWc2bmVEMHJhTk5PLV9GejNsZXhySF9JZ2xyQTZnSzVGVG5KZlpuRDk1TkhXamZUaWVFYTBYZ3YwcXRDM0RObnhXWHB5Z081ZkdKTzZZLVFOTXROenZhS1E?oc=5",
+            "article_count": 10,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          },
+          {
+            "type": "major_award",
+            "points": 15,
+            "note": "Bad Bunny wins Grammy for album of the year - KERA News",
+            "source": "KERA News",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeExXZjBqd1dGTnVaYVA4MTNEM2x0RU9MOXloSDVyMzhqdEN3SU9pMVBFQW92eHBHRENRT2FEdHJ6WWFuS0ludU8tLUZ1eXMzakpWVXhZMTYwamc3Y0ZIQUlxRFRNUkQtQ0Y3NnRUSnA1M2ZyS25DWnlsRkJnR3FnX1VQMEtFZw?oc=5",
+            "article_count": 1,
+            "keyword": "wins grammy",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "What you should know about Bad Bunny's Super Bowl halftime show - NPR",
+            "source": "NPR",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlByTWJwRUpLUXFtR0dqM3ByWEdlZGlNVnVkZW5rQVpZWjNfejBpeDBwSk1wd3Fmalp4czZidHR5ajJpb3JHTnlWRlRfNkc0NWxMaTV2ay1idzhZeVJGdVVMcHFJcENjeDhlSFNiUlZRRGJ1TGZ1Y3VDZjhCQVZqbk1WblhMN3FNLUNvZjBMenpNdE9vRDVVa2ViU3NXbS1nTGRPT3BLa1djdw?oc=5",
+            "article_count": 23,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Bad Bunny Sets Global Viewership Record For Most Watched Super Bowl Halftime Show Performance Of All Time - Roc Nation",
+            "source": "Roc Nation",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMkd4SHY2Mkg0QXNOVkk4a3B4RlJ1RXlqY1ZTRWNvaU1haXdxWm43UTU3Z3Q2SU9lb0RNSGxMR2VwazhnMjR0NDNkYUFiYjhLa29sTU5iU0RSYmptVW0yTDJVZFhyak0zcW11T3dJMXV1X2k0TFNncFVoc3YwS2ZLbUhEZzQtMXhUTml0Si1tRnQ3M3BxV1BoMEVIaUtNV1hfTkU2cHZsSG5mQXQ1ZzduX1REa0s1bnVrV2Q2eVF0dVpWSzFObC1QMExSc2szRlJneElN?oc=5",
+            "article_count": 5,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": 14,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Bad Bunny’s ‘DtMF’ Breaks Record Set by ‘Despacito’ for Most Weeks at No. 1 on Hot Latin Songs - Billboard",
+            "source": "Billboard",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlVR2VYcWtwek1nSDJXSkNhcnNJSi1rOVNHd3BrTmd6VEZSUkJ4RFZXSmVUSzBHaDlxQWxBNGJqbEtsaHBmUFlCaVhWamFuVXpUX3ZweVo0ZFREaFlDM1U5R25nblhLbjFseVU1VVBDOEQ3a25rTmpjVnVBaGlqUlFyTmNPTWNsMWVBejFhY1BMVFNRSDh4cUV0SFNSOEtKLWFwcGdqb3E0dmFhd0E?oc=5",
+            "article_count": 2,
+            "keyword": "breaks record",
+            "flagged": false
+          },
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Pedro Pascal Asked Bad Bunny to Be in Super Bowl Halftime Show but Didn’t Know He’d Be Dancing in the Casita: ‘That’s Why I Seemed Like a Deer in Headlights’ - Variety",
+            "source": "Variety",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3ZBTFhmY29OTWt4R3pFMTdDU2tWODRBeklFMFhKZmpMdzNxN1pITXZxOVY2RXY2aGh4cE5tWHRxSzJLN09mQ2hJZWJSQ3EyQldWZFZ3QWRkSHRCOTlKb0FUc1Mybk9Fc0FkWmxYeEtkdS1qMUxTTEN0Vmkzd0ZSSGJQVHR6WFk0X3k5MUVCQmswRmVacFhrT1BsejlrbGpQTnNJZjd4dF9WZnB5N2o1R0YyQWJhLWZWVWRGTVEwSHY2ajFmMHVOVW93?oc=5",
+            "article_count": 6,
+            "keyword": "super bowl halftime show",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
+        "total": 14,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Bad Bunny Is Still Bad, Even When 50 Years Older at the 2026 Met Gala - Vogue",
+            "source": "Vogue",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0b243UE1GYW56WmhGSUxTbHJmMDktQkFzUHBUa1Jlc2tMZW9JUTQ3SmpBQzR2QVo4Y2NsSXduTFdQTV9KNGhCWTdJX1AtSTNlV01McWMxeXhXMXp1aUpMZ0FtZw?oc=5",
+            "article_count": 5,
+            "keyword": "met gala",
+            "flagged": false
+          },
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Bad Bunny joins ‘Toy Story 5’ voice cast as a fashionable pizza toy - Los Angeles Times",
+            "source": "Los Angeles Times",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1lIU3hLTGd3WkhvS3FZMXdIckxkLW9UV3Z0WlRIaVVSOEFwTEN6M1BIWWI2Z1hKRXZIcC1jcDhBZUZVdnhwc1dELTBkTWJJc2JfSUtrUXJ3SHNRb0NvdnEyZUJuWGpTYTdkdU9DTE9ub0s5cUcxQWZ6Z0FEcWpKdVJHNUNPV2l4cXF4VGFWbUx0dGZlNkxlV256aWRaNERjUzFtS2Q4Znk?oc=5",
+            "article_count": 3,
+            "keyword": "cast as",
+            "flagged": false
+          }
+        ]
       }
     },
     "Tom Hanks": {
       "2026-06-18": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-01": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Tom Hanks opens up about the Dan Brown film trilogy - Far Out Magazine",
+            "source": "Far Out Magazine",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11OGRKOXA2NHdIcjVqOUNsWllrVFp3MWR1U1h2QTFCcjNCVGNwZXBDRmx4aENMQWNSX1NJOUtYM3dQNmlPSUpiV1cwdVJ2QTFCRVNGSmZKVUxyemZ2SDAzNzIwOXJyTVF2V240RWdSSFBrWXd1bmpyb2JQZ2o?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-02": {
+        "total": -2,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Sky News Australia. . Sky News host Danica De Giorgio slams a Saturday Night Live skit where actor Tom Hanks mocked Trump supporters. - facebook.com",
+            "source": "facebook.com",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZW9mN1pzMDFTSHRNdy05OXN2alhWOXdRV2hScXoyM1VxZndha3B0WVZFQlVwQlBDclNKN2tzLXBSYVZqSk1jZEVhbUZaZldtZ1NONkswV3ZaeExteGptNmxHTHQ5YUNSRHJtQXlLZF83OWhtQ1M3SXA3R3ZhZVVnUTFtMnZTYllwNFNlQ1FBSXlkc254R0RQcjEwUk14bTNMbVQtTTV0T28zNEJveUE?oc=5",
+            "article_count": 2,
+            "keyword": "saturday night live",
+            "flagged": false
+          },
+          {
+            "type": "meltdown",
+            "points": -8,
+            "note": "SNL, Tom Hanks Triggered MAGA Meltdown with \"Black Jeopardy!\" Sketch - Bleeding Cool News",
+            "source": "Bleeding Cool News",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX21mN0FkWHVhTUV0dldtcDRSaVJVVWJaRklmbUw0d01ZQjVFejZHbGd2RHNfWkpQOFhSbTZUNFZwZlRxbHB4OE5YN0p5c1dhWUVoZFJCeVlSLWdtdDdXbGNBUVh6a2M5cEFjbkc5TmdBZW9fQ0hOYTNNZjk2OHczVVhCVTBpYndPSXNmVmdjOU94STBHU2dDZQ?oc=5",
+            "article_count": 1,
+            "keyword": "meltdown",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-04": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Tom Hanks' daughter E.A. opens up about her troubled childhood in new memoir - TODAY.com",
+            "source": "TODAY.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2NzSlU1aFVpWmxQRHR0WUh1ZFF4d20tQnhrZFdVYVVaRFF3WER5NExHZUFvb1AtcU90NFEzN1ByaXhSNTVYSmhvWkw2Z1FoRW55RXJnV0RjdVJoUFNZdzZ6MVlqWFJDTHdCWTA1ZUlNWWpJeWJPR1ZqeUt0dEZ2RHBESWRiVmE5R2k2REVrTTN2UlU?oc=5",
+            "article_count": 3,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-05": {
+        "total": 6,
+        "events": [
+          {
+            "type": "major_appearance",
+            "points": 6,
+            "note": "Bill Maher, Jillian Michaels Torch Saturday Night Live Over Tom Hanks’ MAGA Character | RISING - The Hill",
+            "source": "The Hill",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGJKYU9FY1g3WEhjR3VtRW1QYjNQR0hDSjByUTVRcmVyWk9rTHRlMml1LVZQT3hWSGVmQ041d3l5WWNfN3dveFhoUVh3N0VXT0hDaEFHcDNabnIyb0RSSEppUC1wbTlGRnNfb2VidlB4WXF6VmpxQmQ0NVF0N1dPblNpMU5EVHlrVUI3NDkxbUtlZ1BsaHFmbTZxT2FhVEZiTG9nNVp5WTZDY0kwUnhscXQ4WV9fOFRjQXNJOGlXMGtyNmF0Q05PU2JDSXhaTmw0?oc=5",
+            "article_count": 1,
+            "keyword": "saturday night live",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-06": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Tom Hanks Opens Up About What It Means to Be Called 'America's Dad' - Wide Open Country",
+            "source": "Wide Open Country",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWx2Rkthb2I4S1lvd0J4dmZ5NEg2Y0s5X0hxZTgtREs2YnpMMkxwUVNHemVIWUdWT2Y5ODlxbHVJQmtJZmUwem16R1VFRG9adjVkcTVEMGRORmtrUVpyeFpWeGIwR1Nlbk1ySTFabjNGM3RTX0ZablBKaS04WFhQRzRnWHhQeGhPWWI3U21xaXcyaWJJZUdsMnNmTXQzQQ?oc=5",
+            "article_count": 2,
+            "keyword": "opens up about",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-07": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-08": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-09": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-10": {
+        "total": 12,
+        "events": [
+          {
+            "type": "major_project",
+            "points": 12,
+            "note": "Tom Hanks stars in new off-Broadway play \"This World of Tomorrow\" - CBS News",
+            "source": "CBS News",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnVvdGdzcUQwd05LNDFrYldlSjMzMU9LWFpFcjFfTERKdWdQRE80QmVoZHRZODJJQmU1em5ub3UxWGxTZE5aQnZkWjIzZEk5bERsU2YwRUk0eTF2OUJjZnFZVElqTWtyZk1pX1VkVHJVbkdhWkhWTVVuQmQ2czBpM0xJZ0F5UFZ4WmxOTjhmNWZFWEE0RmxOWC14YWlYTjZPVF9kQQ?oc=5",
+            "article_count": 1,
+            "keyword": "stars in new",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-11": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2025-12": {
+        "total": 3,
+        "events": [
+          {
+            "type": "notable_statement",
+            "points": 3,
+            "note": "Rita Wilson Breaks Silence on Rob and Michele Reiner's Death: 'They Did Everything Right' - People.com",
+            "source": "People.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHpFYnl2S1EzTDR1VmJ0WHhhX29KLUtiRVBXNEk4bnJjV1BaVzdXWkkwbHZJeTNGUXlFNHdWQ0J3ZjRjcmJPeXFJVnpjWTlRWUtQVE1nWl9lX04xTDBXRE9FMmZ4N09Oa0hzMk1QSjl0NU9QN2p5Z05ueThsQW5OQTdQRElRRGJnNExtWHEzZUxWS1JicUtwTWtJXzJJbVItNzlXdXBZNHc?oc=5",
+            "article_count": 1,
+            "keyword": "breaks silence on",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-01": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-02": {
+        "total": 8,
+        "events": [
+          {
+            "type": "career_milestone",
+            "points": 8,
+            "note": "Tom Hanks Cast as Abraham Lincoln in New Movie, Title & First Details Revealed - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMDZZTVNLNlA5dkZrWVlsS180a2pqRm5xM281VDIyb2VhbGxNcDB2d2x6ZEJVZWoydHVHUVFVYWVuZEo5YXh1Rlcxb3ZzbnQ5NTc4S1c5bEx1OFJrbmtQdzE2bXZQZk1TZlNvQm95VnFxNlIwTGg0R3ZLM2RkZ1dOU3FYMjNEQVdVQ3h6ektIRTk3TzlnSUZHc3VqUGVQZw?oc=5",
+            "article_count": 2,
+            "keyword": "cast as",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-03": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-04": {
+        "total": -3,
+        "events": [
+          {
+            "type": "quiet_tax",
+            "points": -3,
+            "note": "Articles found but no scoreable events identified",
+            "headline": "",
+            "source": "",
+            "flagged": false
+          }
+        ]
+      },
+      "2026-05": {
         "total": -3,
         "events": [
           {
@@ -449,6 +4134,534 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1VfUENEQW95TThsRlFoVmp4UU9nRzNaYmE4bXRHdTQxZkl4bS1QaXRjTkkzVkNNRFdRaDBFMGVCRHhaVEZLSEVLOTV4RDlud0JBWlhMQ2liZVR5YkM3emwzdDVqZWVyTDZzeC0ySndTNzNUWmNuQzR2Tl9OY21JWQ?oc=5",
         "article_count": 1,
         "keyword": "billion in touring",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-01",
+      "person": "Greg Norman",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "‘A great honour’: Greg Norman receives Lifetime Achievement Award - The Australian",
+        "source": "The Australian",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcjZTejlYSVdnQnZJQVZRUzZNT0cwVTljSzZBSzBXVWpVWnlmWkhZbUVqU082N1l1OUhOak5iaEU5RXB6MWFpa0dzY0dpeUhHZVN3WUphN2x2S2pXbGUyV1YyLVcxa3c1TVNKa0E5c2F0WlZ4eWI2S3JvUzNTemc3WV9fUUprX0QtQktxSFhlN1dTcFJtd0VKNG1CekJrRmQ4SzBsYi1GZWdvbFhoMmhWMHAzNkU2bnJQRTZYN2dtenlxSWpaa1lfc2RZVl8yN05fSmkxMW9zZ9IB3AFBVV95cUxNMWgyRXBWajhxdFI5VmZSTVhjRDZGQ09aS1BTQzNkNGJKWmNiUm9WV0ViSnY0WmJfQzYyOG92NmRjT0wxYWtxdmluU05Sd0RIWmFzWE5JZTU5b00zQVVLdWlmUjRGcmNMdTZTMXVPcmY3TnFkeXVyZUhPNm5sdnhPallOY3VZWkpRSHJsQy1WQ0pfYkNfRW5qdlZnMktnYVM0ZzdsN1E3VTkwRTItZTltQzl0ODh0cFlRUHNSeWxuVUYyTWhlbDgyeXVzMDlVcThmR01hYm1BM3NYRXJn?oc=5",
+        "article_count": 1,
+        "keyword": "receives lifetime achievement",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-02",
+      "person": "Greg Mathis",
+      "event": {
+        "type": "arrested",
+        "points": -15,
+        "note": "20-year-old arrested for carrying loaded gun at high school in North Charleston: Affidavit - WCIV",
+        "source": "WCIV",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdmpuZWZKQ2JsZVhPNHBjb3NLVnc4YXd5LWQ5aDdXN05aREdVLUJWV1h2ZFpwWTBHU2dFc1hVeUJZMmxva2cxWlRjZTlHQnZ3T21lTnM1Q1E4WE5lOUNCczhHWkV3MVU5aFZnTUQzZy0tSTRvaTFIMTVqNTB3dC02Nnl6SlVfa1Bub3NZYUZ6ZXNiODhZOFMydmVBTW12Uy1RTjcybExvZTdQTHdscFgzSmtlbUNNWEhUaHdHWkVWakYyZG9fUXlGenphUmU1NlQ1MDhteDRuOE1XXzJjSWw5TEo1Y3RoT3gycU84U2FiNEV4NDRXckFORGlqcnlEcmNLMXg4TklEMVN2RVYwWkNDUTd3eFZfUXBGQmpTMWJhQ2NBSGxWWjVjbWVESmF0TEVhX3N0ejBvV3hGNmk2NkZfT1BYc2RtTW80bE52aFRsQktTRkt1bW9UNnREb3p1dHMyWm1hQQ?oc=5",
+        "article_count": 1,
+        "keyword": "arrested for",
+        "flagged": true
+      },
+      "suggested_points": -15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-04",
+      "person": "Oprah Winfrey",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Oprah Winfrey tops Forbes list as richest talk-show host, surpasses Tom Cruise - India Today",
+        "source": "India Today",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGNLdkpHV3NYa3pxQ2MwMkRjWjNkQWQ3dmxnbWwzQVByUy1ucTVVd180TEM1TEVtQjViS1duWHBXRG96bll2ckZzV2EwU1p0anpoN25MaFZjcGFNUlNxZDJNa2RqQ3JWTEJRY2JlYmFmN2dVclBSRUxHdklzT3hPQXZCazNfMXFYRjgzNVVSOXV5enZjQUwzLUdaajFlVU43THVVOXRwcTdwT19TRmdQTmZEYWp5TVByVWNqWEE1ZDBFOEdocEI2SWZqeklDbjF2eEE5dTZjWGgtY1dTZU04c3NvTDfSAeoBQVVfeXFMT1p5aFJZTkpYQWdKejM4d1lQNVU3RVNOaVZBX2JFREktOEgwekwtSWFQWi1IeXcwa2Joa2lpRnhTOUFYbHFSVE1USlRUcWVwLTVLNlZtTHdoMVlWSDZBZUp5Mm1sdWhUWE5VcnFXU285ZktqamstM19IeG1hMGRPRnlxRUZieXZWNV9qUHlkQndVejk4a19jMFRlMnZvWTBaMG1uUGVrWU9Uc1o2aTVraUFBS2dWaW5nSWJydzJ5OHpkN0ZCX2pfa3FPRW1ON2tucVN0TENRaF9XZjZud3p2Q2IyVU42NUx0Z29B?oc=5",
+        "article_count": 1,
+        "keyword": "tops forbes",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-05",
+      "person": "Dwayne Johnson",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Dwayne Johnson Cast as Motivational Cult Leader in New A24 Movie Breakthrough - Yahoo",
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVQyRkhOQllpa1VsdG9xVU9URlVqTVNrNjB1X0FRcjJpRkpVTHN3UENHZktuWTg3MnhldGs2YzdPanktdFE4bkZNeXpDQkdNOXFxNGQxVzdudkxYUlZVM2JaeGNSOXRpbTBWSUxOeFBSdU5rbS1NclA5dmdyTFZNVE52R0x3WG9DMUpJalYxajhtWnpRT2dRNjBCcXkydw?oc=5",
+        "article_count": 1,
+        "keyword": "cast as",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-06",
+      "person": "Greg Norman",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Australian Golf Star Cameron Smith Reveals Why he Signed with LIV Golf - Man of Many",
+        "source": "Man of Many",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oT3Nnd1lSXzdjbWpkYnBDLXdfN01QdVVReHNCbnU5dUxmVDFBVW45ZmFWNHJPUlZlYlAzbnlRb29jS0UtTmtndzBiaDJnNVkwWmlDQXY3Z2FJeEs2bVBlX0FXcUdIOVlCQ2JQT0swWjZRUQ?oc=5",
+        "article_count": 1,
+        "keyword": "signed with",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-06",
+      "person": "Greg Norman",
+      "event": {
+        "type": "arrested",
+        "points": -15,
+        "note": "TSA agent arrested for allegedly attacking 79-year-old passenger at Florida airport - Fox News",
+        "source": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWp6YldzWjkteDh6S0Y0aXNYQjZ5WXlHaWFoQThMM0VSVXptM3NtN1Bva05KVnJZZlBqZ0lPWGZqWjVmYnZfV29URTdPdkJFM0pnZlhHZlRDMXhSR01jNGU3MUpEdC0tLTFGTkxIM21kbDFrWjlYSk8zeGRfejNFMjZjUm5ES1dUNlNpbm9UM0pXNzZVa3lJNW1zV0ozaXlfekhsWFln0gGrAUFVX3lxTE5pV2EwbWZnWnN6VVVJVnhURlFiYWJfRk5KY1Z6UzdyUlR6UW94TnNjcEZjcXpLZjMtcmhfZk5FdHMxVUZkWHhoaWtiSkdKNFJpVThvYVhsSVV0T1ZlaU5ETUlLRURYbWFST1REYWZJQ0pyejBIdUxNR1FqTmpEbjZyZi1LdzRfOVJELVdjUDd4djNubkplWWZTSEVlUkxpMzluXzc3YlM2ZmR6QQ?oc=5",
+        "article_count": 1,
+        "keyword": "arrested for",
+        "flagged": true
+      },
+      "suggested_points": -15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-06",
+      "person": "Dwayne Johnson",
+      "event": {
+        "type": "arrested",
+        "points": -15,
+        "note": "Monticello man charged with Rock Hill woman's 2017 murder in federal court - Times Herald-Record",
+        "source": "Times Herald-Record",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3dxODdLZFZuT1ZjNzhhdkZxR29uQl9BR1ZtYkNGQUN3MFRVRVZEa3BUbFhOM2ZTVzdrWGZiZjZCZmNWZnlFSk5oOVhTWEF2N2ViaTl4aDd4U2F2YjY1XzYzVEVqWjRfQ0RSemNkVmwtQ2ZWZDlySHk0NFBIUDdMVFhKR2RlNVBldmg5anV3d19IVGZzakhMcmJrNHFFelNBbnF6N2drQlRZQ3oxMTlGX1c4T01vOG9wd2RVaFdkeHZyVnVP?oc=5",
+        "article_count": 1,
+        "keyword": "charged with",
+        "flagged": true
+      },
+      "suggested_points": -15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-07",
+      "person": "Greg Norman",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "Liverpool soccer player Diogo Jota dead at 28, weeks after winning Premier League and getting married - KTVU",
+        "source": "KTVU",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjJJYU9LWjNnR1l1ZENJWTExWUNvQUtfZ1lJM25aWXlnWG9oY1N2T0QtQXVpLS1MWnpLcTV4VmFxckMwa0oxbXBKc0VqalZRaWZ3QTY0b0hhLW1uRm83V0gxanR6WFJhVzE3VW5kOV9yS3d4RDJBY2tnNldVN0hlSjA0cWRLZlFLZ25VTEo4RnhVdjhZWmN0WVMwVlVoT1JwV2RuaVBLb29uRGNsMEtzc1Z5YjVfajBpRnhj0gHAAUFVX3lxTFBEbXpsUzhOZFM4QlRtSmFEQlUxbVZKMlY3dzF0c05HX3lMc3R1SENDdzFyMTR0NFlDd1RrS0ZvUGk1MzNKYlR3UjAtekJHcDFxcE1RaDJZOXN6WXJEcUdRb2NXNHEtMUVKLUVXelN1S3lPbWY5VFBGVDI3RE5HSjNLbzlVdGlXX0ZubktoajJYcGtIZXhoa3dpM1hSb3ZpdFNNRXFJMkpyTTZBZkJpVkpaRUZ3NmhNckVFbWZTVWR3NA?oc=5",
+        "article_count": 1,
+        "keyword": "getting married",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-07",
+      "person": "Greg Maddux",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "Hall of Fame 2nd baseman Ryne Sandberg has died after battling cancer - CBC",
+        "source": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGhTclZTRWJDTWNWY1lLQm13Sm84QmVxeExFTENoMXV6WDM2OUNYZjJCUVpWMUhwZ01qUjFqQVBXRmZOWUlzODhjVS1ITnVUdHZFNXZWU1E4WGo4U2JjM01oUnpGa19kWnRsSmVGTFFEV1l6UkJ6dUtnOU44Mm9ZU3ljTHRYaVJVUi1GNkt3?oc=5",
+        "article_count": 1,
+        "keyword": "has died",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-07",
+      "person": "Greg Abbott",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "State Sen. Angela Paxton files for divorce from Texas Attorney General Ken Paxton - Houston Public Media",
+        "source": "Houston Public Media",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZVdCUEx0ZEpKeTdPckZXMGdyQUU4OXc2OVAtbXZ5WXh1eGRucGlvRlgtWDd0WGZtTDI2ZS1Jbi1hMHNKbzBIWTBxTzdzUVp1WXY4QWxzVG01Y2txdEl2dUhqT0VFQWthNTF3SzJIVHgwMGlqYXlySEZTeENuekFORXhXa0hmbVhVa2lURE5DUzVVVnBiTnpBQm85NmFObkVCam5mc1BlT25tZEhjX0J6WUxHMkdTUDhNSE53SVNnazE4Z2xMYjlaNmt6ajN5bEtRM2x4dVpyd0Roa1BuYlhrOHpjMWdRWWQ5TTltQm1n0gH2AUFVX3lxTFBPTDdDbWp2UUxrSVQySTNFWW45UkJOdkRXQVN4R2steGptaUx6U2NGcUdUdE9pcFNaRDZnV2xaeUhRcTJ2NXFFclc2V0Nya0huNDRDaWROWmtUWE5zVnoyM2o4OTROWUxSOEpRa0JXSllSc25Bb1FtbVdPYWtDRXVINEJHcElyLVhUNVdzTTRMTGpCZkFBczVSaGw4Z0dUQUpLU2hyU1RjZFpabm1pQmNjT09uZkYtcVptcHRwcHVteDJxeTcyb0ZmUk8zejlQX3A0UzlTTl8zU3NUbm9EeU0wT3F3Y29sSldWWF9mSlNTVU56ajE3Zw?oc=5",
+        "article_count": 1,
+        "keyword": "files for divorce",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-08",
+      "person": "Taylor Swift",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "Kansas City enthusiast Taylor Swift gets engaged to Chiefs tight end Travis Kelce - KCUR",
+        "source": "KCUR",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmFnXzBvbTZ3d1E4cUdidE5rcXh1cU5JYXpsVVZlUFNZYVltSWxZTm5uQmM5ZG4zdkZQd2JwcUxPNTZ2UEtQYzNvY1FDN1JJVEltOEpLY3FWdGZqX1BDVXlmQVJiZjkzY3kybmpIYmFyemNxbDgwWXJkOFFzdlZaektGeU4?oc=5",
+        "article_count": 1,
+        "keyword": "gets engaged",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-08",
+      "person": "LeBron James",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "NBA Quarter Century awards: LeBron James wins MVP and two other honors, surprising pick for top defender - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTRFUlJnSjhsZG95REVqUnM2M09jeDZsWTRMSXlsOVUyREhfa1ZzaG43bFdMUnpuMERQdWhhWU93Zlk5dnRLYzNsZWdMRHpxRWtkSkFHcDJFNkxlM2hKcEloVER2WUE1cGVtNk1aM2Jod1JSalRyTHNHRS05TTc3Q2tjS0lRN1d3WTZMTzRFbGszOVNJcllFWDRtTEZVOU1QWC0yS3Iycy0zNmZadWFndUxBTTlMZ0tDUV9xY001LVJfdUx2UWZMN05wZTltOC1MZHpWNQ?oc=5",
+        "article_count": 1,
+        "keyword": "wins mvp",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-08",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "arrested",
+        "points": -15,
+        "note": "Suspect charged with murder of NYC man who was visiting Puerto Rico for Bad Bunny concert: Officials - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVg4eG5BQTl4TDJDUFBlRzJjZTVXUFZoYW1jS2NzT2s5SHl3OFRsMGE5VEI2dGVSMkVMcVFSMU1RWlk0STVUVmxsR0FqZll5YVN1RXVmeXlXb05LaDlNTkNTMzZTRDZQQl96YXFTa0MxZXR0SlZNcjRmcm5UMmR0Ui1MaHB5SkN3ZWlNTFB2U1NLanVodlFhRXMzeWpnZGRlMFJQM2dZUdIBrAFBVV95cUxPYUZkRmh5OXVLbGpWWkhvTnNTNVZnS1N2YXNiUFIyZ3RpSVdUWk5mbzdZb0ptM1EybjJvb2pGNENpQ1hsaXBYdW9iR2I3UjlYNVVueXBMbEdjQXJidXRYTTdONjhaZjhrVi1BUzVCdmJ2QktKTkk3b0NaRFN6N004aWJjYTVhdWJFMkxrSEpVeXJoU09jMWtPNm9peHZJY0x2aUc2ekpKWEFvOTVt?oc=5",
+        "article_count": 1,
+        "keyword": "charged with",
+        "flagged": true
+      },
+      "suggested_points": -15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-09",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Bad Bunny's Residency Finale Breaks Record for Most-Watched Amazon Music Livestream - rollingstone.com",
+        "source": "rollingstone.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHZDdFpLMkZXT2tIc25VbXhvQzViZlZOckl2UFIwaG9LajVnd3hKcXhWaWtIQkVsMFRqV1BleFBIN1ZlTm5abU1LSkJEaXVCaWFFcjAtOE1UbF9aM2U1dU93T0FSNkotZS1MSG1ZRFJvRkdRMUlqbW01THczRHNNSUwzZ1VrdkEtWTVQQTIzNll4ZE1SX3lnQW5Bb2F6ZTdXU3hQWkRlOUxuTVVQVXRzenFlYmdnZw?oc=5",
+        "article_count": 1,
+        "keyword": "breaks record",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2025-10",
+      "person": "Tom Hanks",
+      "event": {
+        "type": "major_project",
+        "points": 12,
+        "note": "Tom Hanks stars in new off-Broadway play \"This World of Tomorrow\" - CBS News",
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnVvdGdzcUQwd05LNDFrYldlSjMzMU9LWFpFcjFfTERKdWdQRE80QmVoZHRZODJJQmU1em5ub3UxWGxTZE5aQnZkWjIzZEk5bERsU2YwRUk0eTF2OUJjZnFZVElqTWtyZk1pX1VkVHJVbkdhWkhWTVVuQmQ2czBpM0xJZ0F5UFZ4WmxOTjhmNWZFWEE0RmxOWC14YWlYTjZPVF9kQQ?oc=5",
+        "article_count": 1,
+        "keyword": "stars in new",
+        "flagged": true
+      },
+      "suggested_points": 12,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-11",
+      "person": "Greg Norman",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "Golf major champ who sparked a Tiger racism row and broke The Shark’s heart passes away - Fox Sports",
+        "source": "Fox Sports",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLU9WMXNQSjA0NlNJcG1UaEUtNHRXOG1kYmtzV1JTd204VzhjWFpEWHVTZWRYUlp0QTdyeFJjRTF4dENaci01UHh6Z2pyNDlEYmcyMlVHWmw4VXQzdHJhUXRiY1hmTEoxM1Y2WF9abjhIU1Jyek1VbkItUTZudDBjeEdfSnRBNWd2cFl6LTUxckdKU1VrZlpqeFJJV3I4Q2daSS00NzVrcGlUVFdyUDI4ZHBkdjVXV1dPM3A2cGdxM1MxMUp0YU9xU2JQTFB2WHczaVAtS1BVcVZ4NDUyNzl3NmVKcHU5REVWREpQdVFMQ0QxZnBhbGRN0gH3AUFVX3lxTE8tT1Yxc1BKMDQ2U0lwbVRoRS00dFc4bWRia3NXUlN3bThXOGNYWkRYdVNlZFhSWnRBN3J4UmNFMXh0Q1pyLTVQeHpnanI0OURiZzIyVUdabDhVdDN0cmFRdGJjWGZMSjEzVjZYX1puOEhTUnJ6TVVuQi1RNm50MGN4R19KdEE1Z3ZwWXotNTFyR0pTVWtmWmp4UklXcjhDZ1pJLTQ3NWtwaVRUV3JQMjhkcGR2NVdXV08zcDZwZ3EzUzExSnRhT3FTYlBMUHZYdzNpUC1LUFVxVng0NTI3OXc2ZUpwdTlERVZESlB1UUxDRDFmcGFsZE0?oc=5",
+        "article_count": 1,
+        "keyword": "passes away",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "confirmed"
+    },
+    {
+      "date": "2025-11",
+      "person": "Dwayne Johnson",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Dwayne Johnson to receive the American Black Film Festival’s Entertainment Icon Award - Yahoo",
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTBYU0FMNHJCVG12Wlh6S29oZ2Fsbi1MZ3FnSmZMY1dkRTRCTFlDOHpKRDdWdGI2T0hjWm5qWUlJQ1Jrd29VcVhUcnRCQkREOTBUNXpxWnhGRmZqMEl1bGoteXJuOWpWYnlRc0ZEUVhqWGMxbFV1RGxHQ0hRWDRKVTJUM0xLeDljdGxqbUhRU1B4dzZnVUZwZ2tZc2VGc1Z6eldpRU1UMWFpdkE?oc=5",
+        "article_count": 1,
+        "keyword": "to receive the",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-01",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Bad Bunny wins Grammy for album of the year - KERA News",
+        "source": "KERA News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeExXZjBqd1dGTnVaYVA4MTNEM2x0RU9MOXloSDVyMzhqdEN3SU9pMVBFQW92eHBHRENRT2FEdHJ6WWFuS0ludU8tLUZ1eXMzakpWVXhZMTYwamc3Y0ZIQUlxRFRNUkQtQ0Y3NnRUSnA1M2ZyS25DWnlsRkJnR3FnX1VQMEtFZw?oc=5",
+        "article_count": 1,
+        "keyword": "wins grammy",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-02",
+      "person": "Greg Olsen",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Predicting Who Will Present for Luke Kuechly’s Hall of Fame Induction - Sports Illustrated",
+        "source": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWp6QUZIQXdDcEFubTdtN3hvQ294enF6T0xQX05UYXY4bXR5TTZWcmxVdHlNY0RkeFcySGJIaVNhX0NBaXo0Z2EzM2dEalE5Vjg3UnludWxLMGNOekVmNHA5U3ozdGQ0c1JpZ1kwY1pjOXczZDJscXRaSWNyVUEzRWo3ZDIxWjBKbExPOC03YXA4Znp6cGtVa3lTNEtIQQ?oc=5",
+        "article_count": 1,
+        "keyword": "hall of fame induction",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-02",
+      "person": "Greg Berlanti",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Mckenna Grace Cast As Daphne In Netflix’s Scooby-Doo Series - Cosmic Book News",
+        "source": "Cosmic Book News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxc295VjRqSks3LWhBNzJla1ktd2lvRVZsZGVjU0RyUTktclVhSHhnQ0ZOa0xtQ0h1OE9mUmVMdnhzSDlCZ2dHN0I5UG1NdE0ycUdybVFZS0FsRHZyYmhOZ2JTVlozd2NBc3luNXJyejJleF9vX2xna2FqZw?oc=5",
+        "article_count": 1,
+        "keyword": "cast as",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-02",
+      "person": "Greg Mathis",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "The Rev. Jesse Jackson has died at age 84. How Michigan helped him make history - The Detroit News",
+        "source": "The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUR0Y3NXR2Y3eHJ1RkJUbkFMODRya2pWZmJpa2NnZkE0WE9tcjZCdWlUaldydHQtWlg0QnRrSkFLRlRKdHhJVWFsUV9yc0xjQTN6bGx1YjhkSWdKcTA3U2tVRGl1QVc3WE5IeVQzWVRfdUszb1IwamhwLUFLbWtQNnBPRTg4Rzk2dHRWVDY4V2xRemd4OTkxeFhOR01UYjNXN3lMV3l4Z1lqZ3RKX1U5MlJ4TllpUGc4SXozQzdLMXVDelRL?oc=5",
+        "article_count": 1,
+        "keyword": "has died",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-02",
+      "person": "Tom Hanks",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Tom Hanks Cast as Abraham Lincoln in New Movie, Title & First Details Revealed - Yahoo",
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMDZZTVNLNlA5dkZrWVlsS180a2pqRm5xM281VDIyb2VhbGxNcDB2d2x6ZEJVZWoydHVHUVFVYWVuZEo5YXh1Rlcxb3ZzbnQ5NTc4S1c5bEx1OFJrbmtQdzE2bXZQZk1TZlNvQm95VnFxNlIwTGg0R3ZLM2RkZ1dOU3FYMjNEQVdVQ3h6ektIRTk3TzlnSUZHc3VqUGVQZw?oc=5",
+        "article_count": 2,
+        "keyword": "cast as",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-03",
+      "person": "Greg Abbott",
+      "event": {
+        "type": "misconduct",
+        "points": -20,
+        "note": "Gov. Abbott says Texas will stop observing César Chávez Day amid abuse allegations - Houston Public Media",
+        "source": "Houston Public Media",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOVpPZnhZRFJGalVLX25OWGN0MXZjY24yZTMwdDZoNXRGNVRWNXM1cEN3dnh0QnEzV19JUjNtaktPUTVCaXoyTVlFQkZOa0dCQVk0aVJOSTFLY2R1MExTUHEtMmpsVldZN3BMRXJlX0kzMmdTVm9aYWotanJTZ3hSbGZMRUt5WUxQQkVtRU9RNTdPRXFxQTBwdHN4M3M2UjRmaG1feEk2WHJtVFZtOWM1YXVlc2JPLW9CU0lFSNIBxAFBVV95cUxONDlna0xLMllLeDY4X0E1OS1mMEJMbjl0ejNTLVZzWHRJUFI4dXFHOGV1S294LXlaOWhmUHVidmtWNk4yc3FEU1A3eGVtb3BIbHlFOTlfa2lBU3Q3TUc3bGdHc0duTlp6MmpESzExMUplSmVPQlFLVjdGdm1uRmZqRzJSY2FGTjZYNDY0S2p0eXF6cHRPdEgtRG5jaklIZmItVnpud3BvckYwc1d3UUVJalpkdXdRQWVmdTN4aXlERVd1TFJw?oc=5",
+        "article_count": 1,
+        "keyword": "abuse allegations",
+        "flagged": true
+      },
+      "suggested_points": -20,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-03",
+      "person": "Greg Paul",
+      "event": {
+        "type": "arrested",
+        "points": -15,
+        "note": "Woodstock Provincial Court: Change of court for woman charged with attempted murder - River Valley Sun",
+        "source": "River Valley Sun",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTJ1Zy05eHgxaUgwcHl0N21JbDhTZUVCV2Jrdlg2cThicHZWZ25RdUdPY293T2pfMXlWYmloZU5NeFZvVVZBNFJVTjdsZXp6UjlZdE9pWjNscEg0QURELTMzaTRIeWhCdUxxbmtTR29DSjN6c1lTbFRQUzk4WjBOdHVGQzJ0em05elh5X1hRYXJ0bGRPUEdoQzBmdmp6M3k4dGZrZ2gybjY5T1RpTXc?oc=5",
+        "article_count": 1,
+        "keyword": "charged with",
+        "flagged": true
+      },
+      "suggested_points": -15,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-04",
+      "person": "Oprah Winfrey",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Oprah To Receive Cannes LionHeart Award At This Creative Festival 04/22/2026 - MediaPost",
+        "source": "MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVBLV0I3NmZlamk2eTlIdy05WGhhVDh1ZllXcVBxVzFBd1RjS0N5U0FmRWxYRVpYSlVxb3FJUDI2MS1Gd3FMNXNzTGtNcWFkOUFSLXFkRGlsVGlTaTAtWVpQN0o0SWM4WnZlVzc0Y3BNYUtSRHZXWk03TDN0NWVoTmJHZ2o3el8tV1lyTmJGSEU4d1M5NWVhczc1cnd5QmVHQ1BzY0dBdU9TcGQyRXc?oc=5",
+        "article_count": 2,
+        "keyword": "to receive cannes",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-04",
+      "person": "Oprah Winfrey",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Amazon And Harpo Sign Multi-Year Deal To Expand Oprah Podcast And Unlock Franchise Library Across Platforms - Pulse 2.0",
+        "source": "Pulse 2.0",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNG91ck54all6WnFoa0hVM1dQT2piM2VweHFxdlNNUmZQdHV6R2pIWVpFd0hJY1Q0UU9XZ05ZendWUXlGQmxFXzFLWTJzODd1YUVxa1JFajNwejJ3MlNQMktNR24zeS1UaG9wNUdnZEtBeThieEJ6Qks4SHRNRndpZWUtY25WMGFFQUxrZHpEVVRHYk1IeTdnSHdBbzdYNXZsLXlDODgtTzhxOVhuYVduN0VEb2lpOTV5WE9DbS1MaU1jU2M4NGfSAcsBQVVfeXFMT29JR3BjVU9QR1VvdmprTWxtS2pTUVk1S3BvQVo3MGF6TmpqVXhBZ1ozc3RaTzBkYXNyMEROV3d2YlhKTkp2eVRBMlM2OGVmLURIVjVsODNYS3IyUEtaX0ZTV0tOVThWOEF5SVFfUEl0LUZVekpZc3kyWlhNWDRZbXNYbTN4NHVJem1fNVRiOVVhWUxTM1RwbWV5M2JmeEN5eWlxV1NHOUdVY00tbWZTSkY5cXJYUmRPQjFwQVVGRHkzM2lDTG9Ga1VkY1E?oc=5",
+        "article_count": 2,
+        "keyword": "multi-year deal",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-04",
+      "person": "Greg Mathis",
+      "event": {
+        "type": "life_event",
+        "points": 10,
+        "note": "Judge Mathis’ Wife, Linda Mathis, Files for Divorce Dismissal - WBLS",
+        "source": "WBLS",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTdzeDg5X0RLcEs4MEFUckNXaE9zbVRrQk00QjNHMGlWbGpneWYxYVNQUWExWnFQRC1UUGppN1h4VTA0bzBPZUtTa0VYRWhNNmUta28tY3NtVzB6cThULUZjeFlXMHp1bTRHVHhlRXREeldwZUJ5RElveDl6bzh2UlRSajg0MnZiNlBocFFB?oc=5",
+        "article_count": 1,
+        "keyword": "files for divorce",
+        "flagged": true
+      },
+      "suggested_points": 10,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-04",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Bad Bunny’s ‘DtMF’ Breaks Record Set by ‘Despacito’ for Most Weeks at No. 1 on Hot Latin Songs - Billboard",
+        "source": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlVR2VYcWtwek1nSDJXSkNhcnNJSi1rOVNHd3BrTmd6VEZSUkJ4RFZXSmVUSzBHaDlxQWxBNGJqbEtsaHBmUFlCaVhWamFuVXpUX3ZweVo0ZFREaFlDM1U5R25nblhLbjFseVU1VVBDOEQ3a25rTmpjVnVBaGlqUlFyTmNPTWNsMWVBejFhY1BMVFNRSDh4cUV0SFNSOEtKLWFwcGdqb3E0dmFhd0E?oc=5",
+        "article_count": 2,
+        "keyword": "breaks record",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-05",
+      "person": "Greg Olsen",
+      "event": {
+        "type": "major_award",
+        "points": 15,
+        "note": "Panthers legend Greg Olsen wins Emmy over Tom Brady - WBTV",
+        "source": "WBTV",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWJscno2QmQtY2tLbVpZREJac3BfQ1lvQ2E1cFNnWk95M0hraHcxWExPOXNXYzhsUVJiX0hWbFpLM2k0aFE0VkgybkNrRVA5M2FBMjBORVpKS3JDVG5DbWpVQzZJaDVTYTEyWklXT0tVNEtiMm15b1hnbks4ZTZwVTVvRVA0aFpQX2lYRtIBoAFBVV95cUxOeUxNbjlSY3p5VGJRcll3Qnp3UEhfNjNZdGh0eHNkZVYzajBtbm1EcHd5SFZHSGZmdGxEbjZHOWE0REI1WGhPYkUwV0dOX1lWMVoxaUtFZ2czd0I3ZmlBbVB2R1VUWmE2UFMtZzN1RFNWV1N0NlNEQXdKX1laZkdac1RrTTFseWMtVmdiRUFKT0ZHQTB2WjJRU1ltWnJ6LWQt?oc=5",
+        "article_count": 2,
+        "keyword": "wins emmy",
+        "flagged": true
+      },
+      "suggested_points": 15,
+      "status": "confirmed"
+    },
+    {
+      "date": "2026-05",
+      "person": "Taylor Swift",
+      "event": {
+        "type": "misconduct",
+        "points": -20,
+        "note": "Austrian Man Convicted of Planning Attack at Taylor Swift Concert in Vienna - The New York Times",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWZXSWdfODVIZnhod2tXck1ZSlRhWUpvNlI2NXc5eFFEWDlsVlh3LTFRZGdUeTNYZWc1Vk9yVGJvZGFMOUFoeDF5U3FwQW52dk5SbEtpMmlQRTVtRWpQRHIwVnBSUTlnNlY4cGdBMEtYTGRNSGNpUWh4UkZ0aW5sVEtqbXBQeUlucmwxQjJSWUc?oc=5",
+        "article_count": 1,
+        "keyword": "convicted of",
+        "flagged": true
+      },
+      "suggested_points": -20,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-05",
+      "person": "Greg Kinnear",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "'Margo's Got Money Troubles' Renewed for Season 2 With Eva Anderson Promoted to Co-Showrunner - TheWrap",
+        "source": "TheWrap",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemdsWXYtUmRTazhEQjREVUZ1eEl2VGktNXZLRzFQUTBPeFQyZHZRemNTVG5uZTVfcV82NGlPU2ZsYkJuRlc5akRqMERkM2JRckdDcmNFRTdBcWNlWUk2X1NxOGsteHJnS005c1huLU9EczgtVXdFM0VldFltV21sdnZiX3RsckdVeUpVZU1wSVJjdGFrMDVIRw?oc=5",
+        "article_count": 1,
+        "keyword": "promoted to",
+        "flagged": true
+      },
+      "suggested_points": 8,
+      "status": "overridden",
+      "override_points": 0
+    },
+    {
+      "date": "2026-05",
+      "person": "Bad Bunny",
+      "event": {
+        "type": "career_milestone",
+        "points": 8,
+        "note": "Bad Bunny joins ‘Toy Story 5’ voice cast as a fashionable pizza toy - Los Angeles Times",
+        "source": "Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1lIU3hLTGd3WkhvS3FZMXdIckxkLW9UV3Z0WlRIaVVSOEFwTEN6M1BIWWI2Z1hKRXZIcC1jcDhBZUZVdnhwc1dELTBkTWJJc2JfSUtrUXJ3SHNRb0NvdnEyZUJuWGpTYTdkdU9DTE9ub0s5cUcxQWZ6Z0FEcWpKdVJHNUNPV2l4cXF4VGFWbUx0dGZlNkxlV256aWRaNERjUzFtS2Q4Znk?oc=5",
+        "article_count": 3,
+        "keyword": "cast as",
         "flagged": true
       },
       "suggested_points": 8,
